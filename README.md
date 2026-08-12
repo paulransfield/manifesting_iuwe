@@ -1,7 +1,7 @@
 <!-- SECTION: COVER -->
 <div align="center">
 
-# nā-e-mara-mā-manifesting-iuwe-together
+# nā e mara mā manifesting #iuwe together
 
 ## an intergenerational chronicle of the forever</br>blossoming of social learning assemblages
 
