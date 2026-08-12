@@ -3,7 +3,7 @@
 
 # nā-e-mara-mā-manifesting-iuwe-together
 
-## an intergenerational chronicle of the blossoming of social learning assemblages
+## an intergenerational chronicle of</br>the blossoming of social learning assemblages
 
 **#iuwe — Digital Mount Everest — No One Left Behind**
 
@@ -46,7 +46,7 @@
 
 ---
 
-## The Fire Horse / Water Rabbit Send-off
+## i te tīmatanga ka te rongo
 
 > *"e-mara-mā friendship is the seed. iuwe is the garden. and manifesting is the act of bringing it into being, right now, together."*
 
