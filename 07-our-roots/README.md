@@ -35,7 +35,7 @@
 
 ī-puāwai is not just a technical system. It is a **philosophical architecture**—a lived response to the question of how knowledge, community, and media can co-evolve without central control.
 
-My work is informed by a lineage that runs from mid-century cybernetics through to contemporary materialist philosophy. While my daughter's generation navigates the world through the lenses of **Žižek** and **Fisher**, my own toolkit is shaped by **Sloterdijk, Deleuze, de Landa, Luhmann, Beer et al**.
+My work is informed by a lineage that runs from mid-century cybernetics through to contemporary materialist philosophy. While my daughter's generation navigates the world through the lenses of **Žižek** and **Fisher**, my own toolkit is shaped by **Sloterdijk, Deleuze, de Landa, Ostrom, Luhmann, Beer et al**.
 
 **This is not a theoretical indulgence. It is the operating system of the platform.**
 
