@@ -19,13 +19,13 @@
 
 ---
 <div align="center">
-  <img src="./images/our-conceptual-lineage_01" alt="The Conceptual Whakapapa of ī-ahikā + ī-puāwai" width="560px">
+  <img src="./images/our-conceptual-lineage_01.png" alt="The Conceptual Whakapapa of ī-ahikā + ī-puāwai" width="560px">
   <br>
   <sub><em>nā e te iwi ... nau mai haramai ki ā tātou whatarangi ...</em></sub>
 </div>
 
 <div align="center">
-  <img src="./images/our-conceptual-lineage_02" alt="The Conceptual Whakapapa of ī-ahikā + ī-puāwai" width="560px">
+  <img src="./images/our-conceptual-lineage_02.png" alt="The Conceptual Whakapapa of ī-ahikā + ī-puāwai" width="560px">
   <br>
   <sub><em>nā e te iwi ... nau mai haramai ki ā tātou whatarangi ...</em></sub>
 </div>
