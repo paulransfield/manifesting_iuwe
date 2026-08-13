@@ -1,0 +1,39 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│                    DELIVERY · EVIDENCE · RECEIPT                         │
+│                Proving that the event was delivered                      │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                   SCHEDULED EVENT                                    │   │
+│  │   asset_uuid, community_id, scheduled_for, timezone, enabler_uuid   │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                   DELIVERY EVIDENCE                                 │   │
+│  │                                                                      │   │
+│  │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐              │   │
+│  │  │   Attempt    │  │    Served    │  │    Error     │              │   │
+│  │  │  (pre‑delivery)│  │  (during)   │  │  (post)     │              │   │
+│  │  │  timestamp,  │  │  bytes,      │  │  reason,    │              │   │
+│  │  │  node        │  │  viewers     │  │  retry      │              │   │
+│  │  └──────────────┘  └──────────────┘  └──────────────┘              │   │
+│  │                                                                      │   │
+│  │  Each log entry has: timestamp, hash (SHA256), optional IPFS CID    │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    DELIVERY RECEIPT                                 │   │
+│  │                                                                      │   │
+│  │  • receipt_number (unique)                                          │   │
+│  │  • enabler_uuid, asset_title, delivered_at                         │   │
+│  │  • amount, koha breakdown (80/20)                                  │   │
+│  │  • evidence_hash (links to logs)                                    │   │
+│  │  • issued_at, is_verified                                           │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  💡 Every delivery is logged, hashed, and receipted — proof for enabler.  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+Each scheduled event generates a chain of evidence: an attempt log, a served log (with bytes/viewers), and optional error logs. All logs are timestamped, hashed, and optionally pinned to IPFS. The enabler receives a receipt that includes the evidence hash, proving the event was delivered.

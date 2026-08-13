@@ -1,0 +1,35 @@
+
+│                    PRACTICE COMPLETION · OUTCOME PROOF                    │
+│            Swiping "learnt" in the app triggers outcome verification      │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                PRACTICE APP (i mahi pai / bestpractice)             │   │
+│  │                                                                      │   │
+│  │  Learner watches 1‑minute lesson, then swipes "Learnt!"             │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                     STRAPI (SPPS)                                   │   │
+│  │                                                                      │   │
+│  │  • Receives completion event (learner_id, asset_uuid, timestamp)    │   │
+│  │  • Stores in learner_progress table                                 │   │
+│  │  • Exposes API: /api/completions?asset_uuid=...                    │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    VERIFICATION FLOW                               │   │
+│  │                                                                      │   │
+│  │  1. Enabler requests proof of outcome                               │   │
+│  │  2. System queries Strapi API for completion counts                 │   │
+│  │  3. Returns: { asset_uuid, delivered_at, completions: 47 }         │   │
+│  │  4. Outcome bonus triggered if threshold met (e.g., > 30)          │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  💡 The enabler is paid not just for delivery, but for demonstrated       │
+│     learner engagement — honouring the 90s outcome‑based model.           │
+└────────────────────────────────────────────────────────────────────────────┘
+
+The learner swipes "learnt" in the Flutter app; this completion event is sent to Strapi (SPPS). When the enabler requests outcome proof, the system queries Strapi for completion counts. If thresholds are met, the enabler receives the outcome bonus — linking payment to actual learning, not just broadcast.

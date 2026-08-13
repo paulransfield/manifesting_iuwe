@@ -1,0 +1,41 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│                    ASSET PROVENANCE & DERIVATIVES                         │
+│            From source to derivative — every step is tracked              │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                      SOURCE ASSET                                   │   │
+│  │   uuid: openmoji_1F34E (apple)                                     │   │
+│  │   asset_type: openmoji, mime_type: image/svg                       │   │
+│  │   parent_uuid: NULL                                                │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                          │                      │                         │
+│                          ▼                      ▼                         │
+│  ┌──────────────────┐ ┌──────────────────┐ ┌──────────────────┐        │
+│  │   Derivative 1   │ │   Derivative 2   │ │   Derivative 3   │        │
+│  │   gender variant │ │   skin tone      │ │   thumbnail      │        │
+│  │   uuid: ..._f    │ │   uuid: ..._med  │ │   uuid: ..._64   │        │
+│  │   parent: source │ │   parent: source │ │   parent: source │        │
+│  │   derivative_    │ │   derivative_    │ │   derivative_    │        │
+│  │   type: gender   │ │   type: skin     │ │   type: resize   │        │
+│  └──────────────────┘ └──────────────────┘ └──────────────────┘        │
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    MoW (Memorandum of Wishes)                      │   │
+│  │                                                                      │   │
+│  │  {                                                                  │   │
+│  │    "uuid": "openmoji_1F34E_f_med",                                 │   │
+│  │    "source_uuid": "openmoji_1F34E",                                │   │
+│  │    "derivative_type": "gender_skin_variant",                       │   │
+│  │    "derivative_params": {"gender":"female","skin_tone":"medium"},  │   │
+│  │    "ipfs_cid": "bafybei...",                                       │   │
+│  │    "changelog": [...]                                              │   │
+│  │  }                                                                  │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  💡 Every derivative is a first‑class asset with its own UUID, MoW,       │
+│     and IPFS CID — full lineage, full attribution.                       │
+└────────────────────────────────────────────────────────────────────────────┘
+
+Narrative:
+A source asset (e.g., an OpenMoji) can have multiple derivatives: gender variants, skin‑tone variants, resized thumbnails, etc. Each derivative is stored as a separate content_assets row with a parent_uuid and derivative_type. The MoW tracks the entire chain, providing immutable provenance.

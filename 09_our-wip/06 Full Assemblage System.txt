@@ -1,0 +1,39 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│                     Ī-PUAWAI — THE COMPLETE ASSEMBLAGE                   │
+│            Provenance · Federation · Scheduling · Economics              │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                       CONTENT LAYER                                 │   │
+│  │  Phonemes → Words → Phrases → Practice → Media                      │   │
+│  │  (content_assets, MoW, IPFS, derivatives)                         │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                    ┌───────────────┴───────────────┐                      │
+│                    ▼                               ▼                      │
+│  ┌────────────────────────────┐ ┌────────────────────────────┐          │
+│  │      SCHEDULING LAYER      │ │      ECONOMIC LAYER        │          │
+│  │  scheduled_events           │ │  enablers, koha (80/20)   │          │
+│  │  (community, timezone,      │ │  receipts, evidence        │          │
+│  │   asset_uuid)               │ │  outcome verification      │          │
+│  └────────────────────────────┘ └────────────────────────────┘          │
+│                    │                               │                      │
+│                    └───────────────┬───────────────┘                      │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                       DELIVERY & EVIDENCE                          │   │
+│  │  delivery_evidence (logs, hashes), delivery_receipts (enabler)     │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                       PRACTICE COMPLETION (via Strapi)              │   │
+│  │  Swipe in app → Strapi records → Outcome verified → Bonus paid     │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  💡 From seed to receipt — every layer is tracked, provenanced, and      │
+│     accountable to the learner and the enabler.                          │
+└────────────────────────────────────────────────────────────────────────────┘
+
+Narrative:
+The complete system integrates content provenance, federation scheduling, economic enablement, delivery evidence, and learner outcome verification. Each layer is loosely coupled but fully traceable — a true social learning assemblage.

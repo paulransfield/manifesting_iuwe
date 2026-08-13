@@ -1,0 +1,40 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│                       ENABLER · KOHA · COUPLING                         │
+│                 Who pays, how it flows, and what it sustains             │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                          ENABLER                                     │   │
+│  │   (Community Trust, Corporate, School, Individual)                  │   │
+│  │                                                                      │   │
+│  │   Pays $30 for a 1‑minute lesson delivery                           │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    TITHE SPLIT (80/20)                              │   │
+│  │                                                                      │   │
+│  │  ┌──────────────────────────────┐  ┌──────────────────────────────┐ │   │
+│  │  │  80% to Community Trust      │  │  20% to Operations            │ │   │
+│  │  │  (funds local kaitiaki,      │  │  (infrastructure, curation,   │ │   │
+│  │  │   cultural validation,       │  │   governance, IPFS, legal)    │ │   │
+│  │  │   learner support)           │  │                              │ │   │
+│  │  └──────────────────────────────┘  └──────────────────────────────┘ │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                    │                                       │
+│                                    ▼                                       │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    STRUCTURAL COUPLING                              │   │
+│  │                                                                      │   │
+│  │  • Legal personhood of iho.whanau.tv (initial koha)               │   │
+│  │  • Ongoing federation maintenance (recurring koha)                 │   │
+│  │  • Provenance tracking, IPFS storage, scheduling engine             │   │
+│  │  • Community council oversight, curator compensation                │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  💡 The koha is not a tax — it is the structural coupling that keeps     │
+│     the federation alive and accountable.                                │
+└────────────────────────────────────────────────────────────────────────────┘
+
+Narrative:
+Enablers pay a koha (e.g., $30) for a delivery event. 80% flows back to the community trust that supports local curation and learner engagement; 20% sustains the core federation operations. This funds legal personhood and the ongoing structural coupling that keeps the ecosystem viable. A service is provided where the accountant gets clean, traceable numbers named koha. The community gets koha. The PracticeEvent table stays pure.

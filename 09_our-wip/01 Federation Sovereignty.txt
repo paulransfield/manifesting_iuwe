@@ -1,0 +1,28 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│                       FEDERATION & SOVEREIGNTY                            │
+│              Shared Content · Sovereign Schedules · 12 Communities        │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  ┌────────────────────────────────────────────────────────────────────┐   │
+│  │                    CONTENT ASSETS (Shared)                         │   │
+│  │                                                                    │   │
+│  │  Phonemes → Words → Phrases → Practices → Media                    │   │
+│  │  (UUID, MoW, IPFS, derivatives)                                    │   │
+│  └────────────────────────────────────────────────────────────────────┘   │
+│                      │              │              │                      │
+│                      ▼              ▼              ▼                     │
+│  ┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐           │
+│  │ Community  │ │ Community  │ │ Community  │ │   ...      │           │
+│  │ whanau.tv  │ │ madrasa.tv │ │bestpractice│ │  12 total  │           │
+│  │            │ │            │ │            │ │            │           │
+│  │ Schedule:  │ │ Schedule:  │ │ Schedule:  │ │ Each has:  │           │
+│  │ Mon 6pm    │ │ Fri 12pm   │ │ Wed 8am    │ │ - enabler  │           │
+│  │ Timezone:  │ │ Timezone:  │ │ Timezone:  │ │ - timezone │           │
+│  │ NZT        │ │ GST        │ │ EST        │ │ - audience │           │
+│  └────────────┘ └────────────┘ └────────────┘ └────────────┘           │
+│                                                                            │
+│  💡 One garden, many gardeners — content is shared, delivery is local.   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+Narrative:
+The 12 federated communities share the same content assets (phonemes, words, phrases, practices) but each maintains its own delivery schedule, timezone, and enabler relationship. This avoids duplication while respecting cultural and contextual sovereignty.
