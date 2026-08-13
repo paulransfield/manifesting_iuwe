@@ -50,8 +50,8 @@
 
 > *"e-mara-mā friendship is the seed. iuwe is the garden. and manifesting is the act of bringing it into being, right now, together."*
 
+<div align="center">
 **#iuwe ∈ #6_billion_global_lifelong_learners** aka #social_learning_assemblages**
 
-<div align="center">
 🌻🐇🚀🐯🎢🐍🌊🔥🐎📓🐐🏔️🌙❤️
 </div>
