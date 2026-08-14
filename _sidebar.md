@@ -1,0 +1,21 @@
+- [Manifesting #IUWE](README.md)
+
+- **Our Living Book**
+  - [01. Our Seed-Banks](01-our-seed-banks/README.md)
+  - [02. Our Community Gardens](02-our-community-gardens/README.md)
+  - [03. Our Rides](03-our-rides/README.md)
+  - [04. Our Pathways](04-our-pathways/README.md)
+  - [05. Our Tickets](05-our-tickets/README.md)
+  - [06. Our Proofs](06-our-proofs/README.md)
+  - [07. Our Roots](07-our-roots/README.md)
+  - [08. Our Ī-puāwai](08-our-i-puawai/README.md)
+  - [09. Our WIP](09_our-wip/README.md)
+
+- **Ī-puāwai detail**
+  - [Identity and Provenance](08-our-i-puawai/01-identity-and-provenance/README.md)
+  - [Language Bank and Phonemes](08-our-i-puawai/02-language-bank-and-phonemes/README.md)
+  - [Senses and Concept Domains](08-our-i-puawai/03-senses-and-concept-domains/README.md)
+  - [Media Intelligence](08-our-i-puawai/04-media-intelligence/README.md)
+  - [Translation and Voice](08-our-i-puawai/05-translation-and-voice/README.md)
+  - [Practice Events and Delivery](08-our-i-puawai/06-practice-events-and-delivery/README.md)
+  - [Community Review and Resolution](08-our-i-puawai/07-community-review-and-resolution/README.md)
