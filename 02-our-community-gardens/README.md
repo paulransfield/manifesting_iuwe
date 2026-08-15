@@ -2,11 +2,21 @@
 
 > **A federation is not one community enlarged. It is a way for many communities to share capability while retaining their own ground.**
 
+<div align="center">
+  <img src="../images/our-community-gardens.png" alt="Shared commons and local community sovereignty" width="560">
+  <br>
+  <sub><em>One garden, many gardeners: shared capability and local authority.</em></sub>
+</div>
+
 ## The federation proposition
 
 IUWE proposes shared technical and content capability alongside local cultural, linguistic, and operational sovereignty. A community may draw from common assets and common infrastructure while setting its own schedules, language priorities, kaitiaki roles, learner relationships, and rules of participation.
 
 This is the distinction between a **shared commons** and a centrally owned platform. The shared layer makes reuse possible; the local layer protects context, accountability, and the right to say yes, no, not yet, or not in this form.
+
+## The federation is already visible
+
+The federation is not only a future diagram. It has public doors: twelve `iho.` learning ecosystems, a 24/7 visual stream pattern, a rotating-cube low-bandwidth alternative, learning hubs, learner practice apps, word and card-flip games, community-care passports, and a koha gateway. The [federated ecosystem registry](./FEDERATED_ECOSYSTEMS.md) records the current public entry points, their basic roles, and the small link corrections needed to prevent broken routes from entering the living book.
 
 ## One garden, many gardeners
 

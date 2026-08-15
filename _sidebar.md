@@ -1,8 +1,13 @@
 - [Manifesting #IUWE](README.md)
+- [Operating Manual — Public PDF](https://cdn.whanau.tv/wb00_manual_foreword_v01_82a4f75315.pdf)
+- [Hau Whanau — Live Progress Archive](https://hau.whanau.tv/)
+- [How to Read the Hau Archive](HAU_PROGRESS_ARCHIVE.md)
+- [Read the Three Sources With AI](AI_READING_GUIDE.md)
 
 - **Our Living Book**
   - [01. Our Seed-Banks](01-our-seed-banks/README.md)
   - [02. Our Community Gardens](02-our-community-gardens/README.md)
+    - [Federated Ecosystem Registry](02-our-community-gardens/FEDERATED_ECOSYSTEMS.md)
   - [03. Our Rides](03-our-rides/README.md)
   - [04. Our Pathways](04-our-pathways/README.md)
   - [05. Our Tickets](05-our-tickets/README.md)

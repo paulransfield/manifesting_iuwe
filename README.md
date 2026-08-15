@@ -21,6 +21,16 @@
 
 ---
 
+## Read the operating guide first
+
+> **[IUWE community operating guide for healthy social change — public PDF](https://cdn.whanau.tv/wb00_manual_foreword_v01_82a4f75315.pdf)**
+
+The living book sits beside a substantial public operating manual: the history, pedagogy, community ownership proposition, technology, economics, and implementation pathway that brought the current proof of architecture into being. It must also be read with the public [hau.whanau.tv progress archive](https://hau.whanau.tv/)—the dated January–July 2026 and continuing record of 360° teaching-to-learn / learning-to-teach material, deployments, notes, and progress that was impractical to keep repaginating inside the PDF.
+
+Together, the **manual + hau archive + living book** form one time-aware evidence set: the operating foundation, the live public progress trail, and the current architectural map. A text-aware AI can help a lay reader navigate and interrogate these sources quickly, provided it distinguishes what is evidenced, later progress, proposed, uncertain, or still subject to community judgement.
+
+**New reader?** Use the copy-and-paste [AI reading guide](./AI_READING_GUIDE.md) to ask a text-aware AI for a plain-language, chapter-by-chapter analysis of all three sources without asking it to become the authority on culture, community, rights, or outcomes.
+
 ## A living book, not a finished prospectus
 
 This repository records the **proof of architecture** for community-operated social learning. It is written in public so that a whānau, language community, school, creator collective, or future implementation team can see both the aspiration and the working parts.
@@ -33,6 +43,9 @@ The proposition is simple: shared learning assets can travel through many commun
 
 | Chapter | What it holds | Current question |
 |---|---|---|
+| [Operating manual — public PDF](https://cdn.whanau.tv/wb00_manual_foreword_v01_82a4f75315.pdf) | The wider operating guide: history, pedagogy, infrastructure, economics, and roadmap | What does the manual establish, propose, and leave open? |
+| [Hau Whanau progress archive](https://hau.whanau.tv/) | The dated, live public record of 360° learning resources, implementation, and progress | What changed after the PDF, and where is the evidence? |
+| [AI reading guide](./AI_READING_GUIDE.md) | A layperson prompt for time-aware interrogation of the manual, hau archive, and living book | What should a thoughtful reader ask next? |
 | [01. Our Seed-Banks](./01-our-seed-banks/) | Phonemes, syllables, words, idioms, and language origins | What belongs in a community’s living language bank? |
 | [02. Our Community Gardens](./02-our-community-gardens/) | Federation, community sovereignty, and local governance | How can shared infrastructure serve without centralising control? |
 | [03. Our Rides](./03-our-rides/) | Learning media, derivative works, and provenance | How does a source asset become a trustworthy learning event? |
@@ -44,6 +57,12 @@ The proposition is simple: shared learning assets can travel through many commun
 | [09. Our WIP](./09_our-wip/) | Early diagrams and working notes | Which ideas are still becoming and need careful testing? |
 
 ## The system in one movement
+
+<div align="center">
+  <img src="./images/our-assemblage-at-a-glance.png" alt="The IUWE social-learning assemblage from seed banks to review and renewal" width="560">
+  <br>
+  <sub><em>From seed to receipt, review, renewal, and further community work.</em></sub>
+</div>
 
 ```text
 community ask → seed bank → controlled language sense → approved visual / audio asset
@@ -65,15 +84,12 @@ Terms including *whānau*, *kaitiaki*, *koha*, *ūkaipō*, and *whakapapa* are u
 
 ---
 
-<div align="center">
-
-### AI++ [ animal instinct ++ artificial intelligence ]
+### AI++ animal instinct ++ artificial intelligence
 
 *Co-design partners: [Manus AI](https://manus.im/) · [DeepSeek AI](https://www.deepseek.com/en/)*
 
 <sub>Tools in service of human relationships, community authority, and the work still to be done together.</sub>
 
-</div>
 
 ---
 
