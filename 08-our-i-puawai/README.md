@@ -6,6 +6,10 @@
 
 This section records the architecture without pretending every component is finished. Each document distinguishes **operational**, **under test**, and **designed next** work. The purpose is replication: another AI++ team should be able to see how a community can move from a source asset to a governed learning event without losing language authority, provenance, or the ability to revise.
 
+## Current rebaseline account
+
+The [Ī-puāwai rebaseline: language, provenance, and the road ahead](ipuawai-rebaseline-language-provenance-and-road-ahead.md) records the recent movement from a fast, informative minimum viable product to a clean, evidence-first private foundation. It explains what is now reliable, what remains under test, and why future sense, asset, translation, and carousel relationships require explicit community and kaitiaki review.
+
 ## The working chain
 
 ```text

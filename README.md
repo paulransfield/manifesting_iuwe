@@ -58,12 +58,6 @@ The proposition is simple: shared learning assets can travel through many commun
 
 ## The system in one movement
 
-<div align="center">
-  <img src="./images/our-assemblage-at-a-glance.png" alt="The IUWE social-learning assemblage from seed banks to review and renewal" width="560">
-  <br>
-  <sub><em>From seed to receipt, review, renewal, and further community work.</em></sub>
-</div>
-
 ```text
 community ask → seed bank → controlled language sense → approved visual / audio asset
 → practice event → local schedule → delivery evidence → learner completion
@@ -75,6 +69,8 @@ The movement is deliberately circular. A learning asset is not finished when it 
 ## Current proof of architecture
 
 The repository now has a practical centre of gravity in **ī-puāwai**: a local language-bank proof built with Flask, SQLite, Jinja, and Fomantic CSS. It carries clean internal identity, word senses, source provenance, controlled media relationships, and pathways to translation, voice, practice, delivery, and community review.
+
+Read the [Ī-puāwai rebaseline account](./08-our-i-puawai/ipuawai-rebaseline-language-provenance-and-road-ahead.md) for a time-aware record of its movement from a fast minimum viable product to a clean evidence-first foundation, including the governed relationship work that remains ahead.
 
 The work is intentionally iterative. A schema, an image test, a community question, or a new language can improve the design. The repository should therefore show decisions clearly, retain their provenance, and leave room for future communities to adapt the pattern without inheriting unexamined assumptions.
 
