@@ -1,0 +1,1639 @@
+# Source: paul ransfield (ordered by category and word length)
+# Attribution: paul ransfield, Kapai Group
+# haporiCRM_ID: to be supplied
+# List: 1800 — The Core Foundation Words
+category,word
+Actions,Beg
+Actions,Bow
+Actions,Cry
+Actions,Dig
+Actions,Eat
+Actions,Fly
+Actions,Hug
+Actions,Jog
+Actions,Mop
+Actions,Nap
+Actions,Paw
+Actions,Pet
+Actions,Run
+Actions,Sit
+Actions,Ski
+Actions,Bake
+Actions,Bark
+Actions,Bend
+Actions,Cook
+Actions,Draw
+Actions,Dust
+Actions,Feed
+Actions,Fold
+Actions,Hide
+Actions,Hike
+Actions,Howl
+Actions,Iron
+Actions,Jump
+Actions,Kick
+Actions,Kiss
+Actions,Lift
+Actions,Pack
+Actions,Play
+Actions,Pray
+Actions,Pull
+Actions,Push
+Actions,Rake
+Actions,Read
+Actions,Ride
+Actions,Roll
+Actions,Seek
+Actions,Shop
+Actions,Sing
+Actions,Skip
+Actions,Sort
+Actions,Spin
+Actions,Stay
+Actions,Surf
+Actions,Swim
+Actions,Talk
+Actions,Walk
+Actions,Wash
+Actions,Weed
+Actions,Work
+Actions,Yoga
+Actions,Bang!
+Actions,Bathe
+Actions,Brush
+Actions,Catch
+Actions,Chase
+Actions,Clean
+Actions,Climb
+Actions,Crawl
+Actions,Dance
+Actions,Dream
+Actions,Drink
+Actions,Drive
+Actions,Fetch
+Actions,Fight
+Actions,Greet
+Actions,Groom
+Actions,Guard
+Actions,Laugh
+Actions,Leash
+Actions,Paint
+Actions,Plant
+Actions,Prune
+Actions,Punch
+Actions,Shake
+Actions,Shave
+Actions,Skate
+Actions,Sleep
+Actions,Slide
+Actions,Smile
+Actions,Sneak
+Actions,Sniff
+Actions,Speak
+Actions,Study
+Actions,Sweep
+Actions,Throw
+Actions,Train
+Actions,Twist
+Actions,Water
+Actions,Write
+Actions,Biking
+Actions,Crying
+Actions,Eating
+Actions,Hiking
+Actions,Listen
+Actions,Patrol
+Actions,Shower
+Actions,Skiing
+Actions,Typing
+Actions,Unpack
+Actions,Vacuum
+Actions,Wiggle
+Actions,Arrange
+Actions,Cooking
+Actions,Cycling
+Actions,Dancing
+Actions,Drawing
+Actions,Driving
+Actions,Explore
+Actions,Fishing
+Actions,Harvest
+Actions,Jogging
+Actions,Jumping
+Actions,Mooning
+Actions,Praying
+Actions,Release
+Actions,Running
+Actions,Singing
+Actions,Stretch
+Actions,Surfing
+Actions,Talking
+Actions,Writing
+Actions,Climbing
+Actions,Decorate
+Actions,Drinking
+Actions,Juggling
+Actions,Laughing
+Actions,Lie Down
+Actions,Meditate
+Actions,Organize
+Actions,Play Bow
+Actions,Shopping
+Actions,Skipping
+Actions,Sleeping
+Actions,Swimming
+Actions,Gardening
+Actions,High Five
+Actions,High-Five
+Actions,Listening
+Actions,Obedience
+Actions,Play Dead
+Actions,Roll Over
+Actions,Skydiving
+Actions,Meditating
+Actions,Tug-of-War
+Actions,Bungee Jump
+Actions,Cow Tipping
+Actions,Headbanging
+Actions,Moonwalking
+Actions,Paragliding
+Actions,Shake Hands
+Actions,Breakdancing
+Actions,Cartwheeling
+Actions,Hula Hooping
+Actions,Belly Dancing
+Actions,Limbo Dancing
+Animals,Cat
+Animals,Cow
+Animals,Dog
+Animals,Emu
+Animals,Fox
+Animals,Hen
+Animals,Owl
+Animals,Yak
+Animals,Bear
+Animals,Bird
+Animals,Deer
+Animals,Duck
+Animals,Fish
+Animals,Gull
+Animals,Hawk
+Animals,Ibis
+Animals,Kite
+Animals,Knot
+Animals,Lion
+Animals,Ruff
+Animals,Seal
+Animals,Swan
+Animals,Wolf
+Animals,Wren
+Animals,Bison
+Animals,Camel
+Animals,Chick
+Animals,Crane
+Animals,Eagle
+Animals,Egret
+Animals,Finch
+Animals,Goose
+Animals,Heron
+Animals,Hippo
+Animals,Hobby
+Animals,Horse
+Animals,Koala
+Animals,Llama
+Animals,Moose
+Animals,Otter
+Animals,Panda
+Animals,Rhino
+Animals,Robin
+Animals,Sloth
+Animals,Snake
+Animals,Snipe
+Animals,Stork
+Animals,Swift
+Animals,Tiger
+Animals,Whale
+Animals,Zebra
+Animals,Avocet
+Animals,Beaver
+Animals,Canary
+Animals,Condor
+Animals,Curlew
+Animals,Dunlin
+Animals,Falcon
+Animals,Godwit
+Animals,Martin
+Animals,Merlin
+Animals,Monkey
+Animals,Osprey
+Animals,Parrot
+Animals,Pigeon
+Animals,Rabbit
+Animals,Spider
+Animals,Thrush
+Animals,Toucan
+Animals,Turkey
+Animals,Turtle
+Animals,Bigfoot
+Animals,Buffalo
+Animals,Buzzard
+Animals,Chicken
+Animals,Dolphin
+Animals,Giraffe
+Animals,Gorilla
+Animals,Goshawk
+Animals,Harrier
+Animals,Kestrel
+Animals,Lapwing
+Animals,Meerkat
+Animals,Octopus
+Animals,Ostrich
+Animals,Peacock
+Animals,Pelican
+Animals,Penguin
+Animals,Raccoon
+Animals,Rooster
+Animals,Seagull
+Animals,Sparrow
+Animals,Swallow
+Animals,Vulture
+Animals,Warbler
+Animals,Waxwing
+Animals,Antelope
+Animals,Blue Jay
+Animals,Bluebird
+Animals,Cardinal
+Animals,Cockatoo
+Animals,Duckling
+Animals,Elephant
+Animals,Flamingo
+Animals,Hedgehog
+Animals,Kangaroo
+Animals,Nuthatch
+Animals,Platypus
+Animals,Red Kite
+Animals,Redshank
+Animals,Reindeer
+Animals,Squirrel
+Animals,Starling
+Animals,Titmouse
+Animals,Whimbrel
+Animals,Woodcock
+Animals,Albatross
+Animals,Armadillo
+Animals,Butterfly
+Animals,Chameleon
+Animals,Chickadee
+Animals,Cormorant
+Animals,Goldfinch
+Animals,Orangutan
+Animals,Peregrine
+Animals,Ptarmigan
+Animals,Spoonbill
+Animals,Turnstone
+Animals,Bald Eagle
+Animals,Black Kite
+Animals,Chimpanzee
+Animals,Jack Snipe
+Animals,Kingfisher
+Animals,Polar Bear
+Animals,Red Grouse
+Animals,Rhinoceros
+Animals,Sanderling
+Animals,Woodpecker
+Animals,Black Stork
+Animals,Great Snipe
+Animals,Hummingbird
+Animals,Nightingale
+Animals,Sparrowhawk
+Animals,White Stork
+Animals,Black Grouse
+Animals,Golden Eagle
+Animals,Great Bustard
+Animals,Komodo Dragon
+Animals,Oystercatcher
+Animals,Red Phalarope
+Animals,Grey Phalarope
+Animals,Little Bustard
+Animals,Houbara Bustard
+Animals,Purple Sandpiper
+Animals,Red-Necked Grebe
+Animals,Great Crested Grebe
+Animals,Macqueen’s Bustard
+Fantasy,UFO
+Fantasy,Alien
+Fantasy,Ninja
+Fantasy,Castle
+Fantasy,Dragon
+Fantasy,Spider
+Fantasy,Zombie
+Fantasy,Rainbow
+Fantasy,Unicorn
+Fantasy,Tooth Fairy
+Food,Pizza
+Food,Banana
+Food and Drink,Pho
+Food and Drink,Pie
+Food and Drink,Brie
+Food and Drink,Corn
+Food and Drink,Dill
+Food and Drink,Feta
+Food and Drink,Kiwi
+Food and Drink,Leek
+Food and Drink,Lime
+Food and Drink,Maki
+Food and Drink,Mint
+Food and Drink,Naan
+Food and Drink,Oats
+Food and Drink,Orzo
+Food and Drink,Pear
+Food and Drink,Peas
+Food and Drink,Pita
+Food and Drink,Plum
+Food and Drink,Rice
+Food and Drink,Sage
+Food and Drink,Soba
+Food and Drink,Tart
+Food and Drink,Udon
+Food and Drink,Apple
+Food and Drink,Basil
+Food and Drink,Crepe
+Food and Drink,Cumin
+Food and Drink,Gouda
+Food and Drink,Juice
+Food and Drink,Lemon
+Food and Drink,Mango
+Food and Drink,Onion
+Food and Drink,Pasta
+Food and Drink,Peach
+Food and Drink,Pecan
+Food and Drink,Penne
+Food and Drink,Ramen
+Food and Drink,Scone
+Food and Drink,Sushi
+Food and Drink,Thyme
+Food and Drink,Almond
+Food and Drink,Banana
+Food and Drink,Barley
+Food and Drink,Bulgur
+Food and Drink,Butter
+Food and Drink,Carrot
+Food and Drink,Cashew
+Food and Drink,Celery
+Food and Drink,Cheese
+Food and Drink,Cherry
+Food and Drink,Chives
+Food and Drink,Cloves
+Food and Drink,Cookie
+Food and Drink,Danish
+Food and Drink,Eclair
+Food and Drink,Fennel
+Food and Drink,Garlic
+Food and Drink,Gelato
+Food and Drink,Ginger
+Food and Drink,Grapes
+Food and Drink,Kimchi
+Food and Drink,Mousse
+Food and Drink,Muffin
+Food and Drink,Nigiri
+Food and Drink,Nutmeg
+Food and Drink,Orange
+Food and Drink,Paneer
+Food and Drink,Peanut
+Food and Drink,Potato
+Food and Drink,Quinoa
+Food and Drink,Radish
+Food and Drink,Rotini
+Food and Drink,Samosa
+Food and Drink,Sorbet
+Food and Drink,Tamari
+Food and Drink,Tomato
+Food and Drink,Trifle
+Food and Drink,Turnip
+Food and Drink,Waffle
+Food and Drink,Walnut
+Food and Drink,Avocado
+Food and Drink,Biscuit
+Food and Drink,Brioche
+Food and Drink,Brownie
+Food and Drink,Cabbage
+Food and Drink,Cannoli
+Food and Drink,Cheddar
+Food and Drink,Cobbler
+Food and Drink,Coconut
+Food and Drink,Crumble
+Food and Drink,Cupcake
+Food and Drink,Custard
+Food and Drink,Fusilli
+Food and Drink,Gnocchi
+Food and Drink,Lasagna
+Food and Drink,Lettuce
+Food and Drink,Macaron
+Food and Drink,Oregano
+Food and Drink,Pancake
+Food and Drink,Paprika
+Food and Drink,Parfait
+Food and Drink,Parsley
+Food and Drink,Pretzel
+Food and Drink,Pudding
+Food and Drink,Pumpkin
+Food and Drink,Ravioli
+Food and Drink,Ricotta
+Food and Drink,Risotto
+Food and Drink,Saffron
+Food and Drink,Sashimi
+Food and Drink,Serrano
+Food and Drink,Shallot
+Food and Drink,Sherbet
+Food and Drink,Spinach
+Food and Drink,Tempura
+Food and Drink,Vanilla
+Food and Drink,Baguette
+Food and Drink,Beetroot
+Food and Drink,Bibimbap
+Food and Drink,Broccoli
+Food and Drink,Cardamom
+Food and Drink,Chestnut
+Food and Drink,Ciabatta
+Food and Drink,Cinnamon
+Food and Drink,Couscous
+Food and Drink,Cucumber
+Food and Drink,Doughnut
+Food and Drink,Eggplant
+Food and Drink,Empanada
+Food and Drink,Flaxseed
+Food and Drink,Focaccia
+Food and Drink,Habanero
+Food and Drink,Halloumi
+Food and Drink,Hazelnut
+Food and Drink,Lemonade
+Food and Drink,Linguine
+Food and Drink,Macaroni
+Food and Drink,Mushroom
+Food and Drink,Oat Milk
+Food and Drink,Pad Thai
+Food and Drink,Parmesan
+Food and Drink,Pine Nut
+Food and Drink,Rigatoni
+Food and Drink,Rosemary
+Food and Drink,Smoothie
+Food and Drink,Soy Milk
+Food and Drink,Tarragon
+Food and Drink,Turmeric
+Food and Drink,Zucchini
+Food and Drink,Artichoke
+Food and Drink,Asparagus
+Food and Drink,Blueberry
+Food and Drink,Camembert
+Food and Drink,Chia Seed
+Food and Drink,Coriander
+Food and Drink,Croissant
+Food and Drink,Dumplings
+Food and Drink,Hot Sauce
+Food and Drink,Ice Cream
+Food and Drink,Jalapeño
+Food and Drink,Macadamia
+Food and Drink,Margarine
+Food and Drink,Milkshake
+Food and Drink,Olive Oil
+Food and Drink,Pineapple
+Food and Drink,Pistachio
+Food and Drink,Raspberry
+Food and Drink,Rice Milk
+Food and Drink,Soy Sauce
+Food and Drink,Spaghetti
+Food and Drink,Bay Leaves
+Food and Drink,Blackberry
+Food and Drink,Brazil Nut
+Food and Drink,Cannelloni
+Food and Drink,Canola Oil
+Food and Drink,Cheesecake
+Food and Drink,Fettuccine
+Food and Drink,Fish Sauce
+Food and Drink,Grapefruit
+Food and Drink,Mascarpone
+Food and Drink,Mozzarella
+Food and Drink,Peanut Oil
+Food and Drink,Poppy Seed
+Food and Drink,Sesame Oil
+Food and Drink,Shortbread
+Food and Drink,Strawberry
+Food and Drink,Tortellini
+Food and Drink,Vermicelli
+Food and Drink,Walnut Oil
+Food and Drink,Watermelon
+Food and Drink,Almond Milk
+Food and Drink,Apple Juice
+Food and Drink,Avocado Oil
+Food and Drink,Bell Pepper
+Food and Drink,Blue Cheese
+Food and Drink,Cashew Milk
+Food and Drink,Cauliflower
+Food and Drink,Coconut Oil
+Food and Drink,Goat Cheese
+Food and Drink,Grape Juice
+Food and Drink,Green Beans
+Food and Drink,Sesame Seed
+Food and Drink,Truffle Oil
+Food and Drink,Carrot Juice
+Food and Drink,Chili Pepper
+Food and Drink,Chili Powder
+Food and Drink,Coconut Milk
+Food and Drink,Cream Cheese
+Food and Drink,Curry Powder
+Food and Drink,Flaxseed Oil
+Food and Drink,French Toast
+Food and Drink,Hoisin Sauce
+Food and Drink,Orange Juice
+Food and Drink,Oyster Sauce
+Food and Drink,Pumpkin Seed
+Food and Drink,Spring Rolls
+Food and Drink,Sweet Potato
+Food and Drink,Tomato Juice
+Food and Drink,Coconut Water
+Food and Drink,Frozen Yogurt
+Food and Drink,Scotch Bonnet
+Food and Drink,Sunflower Oil
+Food and Drink,Beetroot Juice
+Food and Drink,Cayenne Pepper
+Food and Drink,Cottage Cheese
+Food and Drink,Sunflower Seed
+Food and Drink,Teriyaki Sauce
+Food and Drink,Cranberry Juice
+Food and Drink,Pineapple Juice
+Food and Drink,Balsamic Vinegar
+Food and Drink,Butternut Squash
+Food and Drink,Red Wine Vinegar
+Food and Drink,White Wine Vinegar
+Food and Drink,Apple Cider Vinegar
+Food and Drink,Worcestershire Sauce
+Health,Doctor
+Music,Concert
+Nature,Boa
+Nature,Bog
+Nature,Fen
+Nature,Ray
+Nature,Sun
+Nature,Arch
+Nature,Berg
+Nature,Cave
+Nature,Clam
+Nature,Clay
+Nature,Cove
+Nature,Crab
+Nature,Dune
+Nature,Frog
+Nature,Hill
+Nature,Kame
+Nature,Kelp
+Nature,Lake
+Nature,Mesa
+Nature,Moon
+Nature,Newt
+Nature,Opal
+Nature,Peat
+Nature,Pond
+Nature,Rain
+Nature,Reef
+Nature,Rift
+Nature,Ruby
+Nature,Sand
+Nature,Seal
+Nature,Silt
+Nature,Snow
+Nature,Star
+Nature,Tarn
+Nature,Tide
+Nature,Toad
+Nature,Tree
+Nature,Wave
+Nature,Wind
+Nature,Algae
+Nature,Amber
+Nature,Atoll
+Nature,Bayou
+Nature,Beach
+Nature,Bight
+Nature,Butte
+Nature,Cliff
+Nature,Cloud
+Nature,Cobra
+Nature,Comet
+Nature,Coral
+Nature,Delta
+Nature,Esker
+Nature,Fjord
+Nature,Gecko
+Nature,Gorge
+Nature,Gulch
+Nature,Inlet
+Nature,Krill
+Nature,Loess
+Nature,Marsh
+Nature,Oasis
+Nature,Ocean
+Nature,Otter
+Nature,Oxbow
+Nature,Pearl
+Nature,Plant
+Nature,River
+Nature,Serac
+Nature,Shale
+Nature,Shark
+Nature,Shell
+Nature,Slate
+Nature,Snake
+Nature,Sound
+Nature,Squid
+Nature,Swamp
+Nature,Taiga
+Nature,Topaz
+Nature,Viper
+Nature,Whale
+Nature,Alpine
+Nature,Arroyo
+Nature,Aurora
+Nature,Basalt
+Nature,Boreal
+Nature,Cactus
+Nature,Canyon
+Nature,Crater
+Nature,Desert
+Nature,Flower
+Nature,Forest
+Nature,Fossil
+Nature,Garnet
+Nature,Geyser
+Nature,Gneiss
+Nature,Gravel
+Nature,Hoodoo
+Nature,Iguana
+Nature,Island
+Nature,Jungle
+Nature,Kettle
+Nature,Komodo
+Nature,Lagoon
+Nature,Lizard
+Nature,Marble
+Nature,Meadow
+Nature,Meteor
+Nature,Mussel
+Nature,Oyster
+Nature,Pebble
+Nature,Planet
+Nature,Python
+Nature,Rapids
+Nature,Schist
+Nature,Shrimp
+Nature,Slider
+Nature,Sponge
+Nature,Steppe
+Nature,Strait
+Nature,Tundra
+Nature,Turtle
+Nature,Urchin
+Nature,Valley
+Nature,Walrus
+Nature,Aldabra
+Nature,Anemone
+Nature,Aquifer
+Nature,Bedrock
+Nature,Current
+Nature,Diamond
+Nature,Dolphin
+Nature,Drumlin
+Nature,Eclipse
+Nature,Emerald
+Nature,Estuary
+Nature,Gharial
+Nature,Glacier
+Nature,Granite
+Nature,Lobster
+Nature,Meander
+Nature,Monitor
+Nature,Moraine
+Nature,Nunatak
+Nature,Octopus
+Nature,Painted
+Nature,Plateau
+Nature,Prairie
+Nature,Rainbow
+Nature,Savanna
+Nature,Scallop
+Nature,Sealion
+Nature,Seaweed
+Nature,Terrace
+Nature,Tornado
+Nature,Tsunami
+Nature,Volcano
+Nature,Wetland
+Nature,Alluvium
+Nature,Amethyst
+Nature,Anaconda
+Nature,Barnacle
+Nature,Blowhole
+Nature,Crevasse
+Nature,Flatback
+Nature,Fumarole
+Nature,Monolith
+Nature,Mountain
+Nature,Panorama
+Nature,Plankton
+Nature,Sapphire
+Nature,Savannah
+Nature,Seagrass
+Nature,Seashell
+Nature,Snapping
+Nature,Starfish
+Nature,Tortoise
+Nature,Alligator
+Nature,Avalanche
+Nature,Broadleaf
+Nature,Chameleon
+Nature,Crocodile
+Nature,Deciduous
+Nature,Evergreen
+Nature,Galapagos
+Nature,Grassland
+Nature,Green sea
+Nature,Hawksbill
+Nature,Hurricane
+Nature,Jellyfish
+Nature,Lava Tube
+Nature,Limestone
+Nature,Peninsula
+Nature,Petrified
+Nature,Quartzite
+Nature,Red-eared
+Nature,Salt Flat
+Nature,Sea snail
+Nature,Softshell
+Nature,Sunflower
+Nature,Temperate
+Nature,Waterfall
+Nature,Box turtle
+Nature,Coniferous
+Nature,Coral Reef
+Nature,Earthquake
+Nature,Loggerhead
+Nature,Needleleaf
+Nature,Promontory
+Nature,Rainforest
+Nature,Salamander
+Nature,Sandcastle
+Nature,Sea urchin
+Nature,Archipelago
+Nature,Bergschrund
+Nature,Leatherback
+Nature,Plunge Pool
+Nature,Rattlesnake
+Nature,Wood turtle
+Nature,Green turtle
+Nature,Mixed Forest
+Nature,Olive ridley
+Nature,Sea cucumber
+Nature,Spur-thighed
+Nature,Thunderstorm
+Nature,Constellation
+Nature,Kemp’s ridley
+Objects,CD
+Objects,Bag
+Objects,Bed
+Objects,CPR
+Objects,Car
+Objects,Cup
+Objects,DVD
+Objects,EMT
+Objects,GPS
+Objects,Hat
+Objects,Hub
+Objects,Key
+Objects,MRI
+Objects,Map
+Objects,Nut
+Objects,Pen
+Objects,Saw
+Objects,Sun
+Objects,USB
+Objects,Ball
+Objects,Boat
+Objects,Book
+Objects,Cane
+Objects,Cast
+Objects,Clay
+Objects,Comb
+Objects,Dice
+Objects,Doll
+Objects,Door
+Objects,Drum
+Objects,Fork
+Objects,Glue
+Objects,LEGO
+Objects,Lake
+Objects,Lamp
+Objects,Lock
+Objects,Moon
+Objects,Oven
+Objects,Pill
+Objects,Plug
+Objects,Ring
+Objects,Road
+Objects,Rope
+Objects,Safe
+Objects,Sink
+Objects,Soap
+Objects,Sofa
+Objects,Star
+Objects,Tape
+Objects,Tree
+Objects,Vase
+Objects,Wire
+Objects,Xbox
+Objects,Alarm
+Objects,Beach
+Objects,Bolts
+Objects,Brush
+Objects,Chain
+Objects,Chair
+Objects,Clock
+Objects,Cloud
+Objects,Drill
+Objects,Drone
+Objects,Easel
+Objects,Flute
+Objects,Globe
+Objects,Guard
+Objects,House
+Objects,Knife
+Objects,Mixer
+Objects,Modem
+Objects,Mouse
+Objects,Nails
+Objects,Nurse
+Objects,Paint
+Objects,Paper
+Objects,Phone
+Objects,Piano
+Objects,Plane
+Objects,Plate
+Objects,Radio
+Objects,Razor
+Objects,River
+Objects,Ruler
+Objects,Shoes
+Objects,Spoon
+Objects,Table
+Objects,Towel
+Objects,Train
+Objects,Watch
+Objects,X-Ray
+Objects,Banana
+Objects,Basket
+Objects,Bedpan
+Objects,Biopsy
+Objects,Bridge
+Objects,Button
+Objects,Camera
+Objects,Candle
+Objects,Canvas
+Objects,Clinic
+Objects,Closet
+Objects,Eraser
+Objects,Flower
+Objects,Folder
+Objects,Fridge
+Objects,Guitar
+Objects,Hammer
+Objects,Ladder
+Objects,Laptop
+Objects,Lotion
+Objects,Marker
+Objects,Mirror
+Objects,Oculus
+Objects,Pencil
+Objects,Pillow
+Objects,Pliers
+Objects,Puzzle
+Objects,Remote
+Objects,Rocket
+Objects,Router
+Objects,Screws
+Objects,Server
+Objects,Sheets
+Objects,Shower
+Objects,Slinky
+Objects,Socket
+Objects,Statue
+Objects,Street
+Objects,Suture
+Objects,Switch
+Objects,Tablet
+Objects,Tissue
+Objects,Toilet
+Objects,Urinal
+Objects,Violin
+Objects,Walker
+Objects,Wallet
+Objects,Washer
+Objects,Webcam
+Objects,Window
+Objects,Wrench
+Objects,Antenna
+Objects,Bandage
+Objects,Bathtub
+Objects,Battery
+Objects,Bicycle
+Objects,Blanket
+Objects,Blu-ray
+Objects,CT Scan
+Objects,Cologne
+Objects,Compass
+Objects,Crayons
+Objects,Cymbals
+Objects,Dentist
+Objects,Desktop
+Objects,Dresser
+Objects,Earbuds
+Objects,Freezer
+Objects,Gamepad
+Objects,Glasses
+Objects,IV Drip
+Objects,Inhaler
+Objects,Jukebox
+Objects,Lantern
+Objects,Monitor
+Objects,Padlock
+Objects,Perfume
+Objects,Pottery
+Objects,Printer
+Objects,Rainbow
+Objects,Scalpel
+Objects,Scanner
+Objects,Shampoo
+Objects,Speaker
+Objects,Stapler
+Objects,Surgeon
+Objects,Surgery
+Objects,Syringe
+Objects,Toolbox
+Objects,Toy Car
+Objects,Trumpet
+Objects,Backpack
+Objects,Bracelet
+Objects,Building
+Objects,Calendar
+Objects,Catheter
+Objects,Chainsaw
+Objects,Computer
+Objects,Crutches
+Objects,Earrings
+Objects,Firewall
+Objects,Hospital
+Objects,IV Stand
+Objects,Joystick
+Objects,Keyboard
+Objects,Medicine
+Objects,Mountain
+Objects,Mustache
+Objects,Necklace
+Objects,Nintendo
+Objects,Notebook
+Objects,Pharmacy
+Objects,Play-Doh
+Objects,Scissors
+Objects,Umbrella
+Objects,Ambulance
+Objects,Amplifier
+Objects,Boomerang
+Objects,Briefcase
+Objects,Bulldozer
+Objects,Catacombs
+Objects,Clipboard
+Objects,Deodorant
+Objects,Dollhouse
+Objects,Game Disc
+Objects,Hairdryer
+Objects,Harmonica
+Objects,Hourglass
+Objects,Labyrinth
+Objects,Lightbulb
+Objects,Mausoleum
+Objects,Metronome
+Objects,Microwave
+Objects,Paramedic
+Objects,Physician
+Objects,Satellite
+Objects,Saxophone
+Objects,Sculpture
+Objects,Stretcher
+Objects,Sunflower
+Objects,Telescope
+Objects,Trash Can
+Objects,Treadmill
+Objects,Turntable
+Objects,VGA Cable
+Objects,Anesthesia
+Objects,Binoculars
+Objects,Blood Test
+Objects,Calculator
+Objects,Chessboard
+Objects,Clown Nose
+Objects,Controller
+Objects,Disco Ball
+Objects,Drumsticks
+Objects,Flashlight
+Objects,HDMI Cable
+Objects,Hand Dryer
+Objects,Hard Drive
+Objects,Headphones
+Objects,MP3 Player
+Objects,Microphone
+Objects,Microscope
+Objects,Paintbrush
+Objects,Pillowcase
+Objects,Protractor
+Objects,Smartphone
+Objects,Smartwatch
+Objects,Tambourine
+Objects,Teddy Bear
+Objects,Television
+Objects,Toothbrush
+Objects,Toothpaste
+Objects,Ultrasound
+Objects,Urine Test
+Objects,Ventilator
+Objects,Violin Bow
+Objects,Wheelchair
+Objects,Banana Peel
+Objects,Bubble Wrap
+Objects,Call Button
+Objects,Guitar Pick
+Objects,Hearing Aid
+Objects,ID Bracelet
+Objects,Music Stand
+Objects,Neurologist
+Objects,Observatory
+Objects,Optometrist
+Objects,Orthopedist
+Objects,Oxygen Mask
+Objects,Playstation
+Objects,Radiologist
+Objects,Rubber Band
+Objects,Rubber Duck
+Objects,Screwdriver
+Objects,Sheet Music
+Objects,Solar Panel
+Objects,Stethoscope
+Objects,Synthesizer
+Objects,Thermometer
+Objects,Bedside Lamp
+Objects,Drum Machine
+Objects,Game Console
+Objects,Guitar Strap
+Objects,Hospital Bed
+Objects,Paper Towels
+Objects,Pediatrician
+Objects,Prescription
+Objects,Psychiatrist
+Objects,Slot Machine
+Objects,Stool Sample
+Objects,Surveillance
+Objects,Tape Measure
+Objects,Toilet Brush
+Objects,Toilet Paper
+Objects,Action Figure
+Objects,Bedside Table
+Objects,Biohazard Bin
+Objects,Defibrillator
+Objects,Dermatologist
+Objects,First Aid Kit
+Objects,Hospital Food
+Objects,Hospital Gown
+Objects,Medical Waste
+Objects,Playing Cards
+Objects,Record Player
+Objects,Recycling Bin
+Objects,Tissue Sample
+Objects,Visitor Chair
+Objects,Arcade Machine
+Objects,Doctor’s Bag
+Objects,Ethernet Cable
+Objects,Hand Sanitizer
+Objects,Rubber Chicken
+Objects,Rubik’s Cube
+Objects,Soap Dispenser
+Objects,Building Blocks
+Objects,Fitness Tracker
+Objects,Medical Records
+Objects,Pinball Machine
+Objects,Security Camera
+Objects,Wheelchair Ramp
+Objects,Magnifying Glass
+Objects,Medical Bracelet
+Objects,Medicine Cabinet
+Objects,Microphone Stand
+Objects,Medical Assistant
+Objects,Medical Waste Bin
+Objects,Medical Alert System
+Objects,Health Insurance Card
+Objects,Blood Pressure Monitor
+Objects,Virtual Reality Headset
+Places,Bay
+Places,Bog
+Places,Gym
+Places,Zoo
+Places,Arch
+Places,Bank
+Places,Cave
+Places,City
+Places,Cove
+Places,Crag
+Places,Dock
+Places,Dune
+Places,Farm
+Places,Hill
+Places,Lake
+Places,Mall
+Places,Mesa
+Places,Park
+Places,Peak
+Places,Pier
+Places,Pond
+Places,Port
+Places,Reef
+Places,Road
+Places,Sink
+Places,Town
+Places,Abyss
+Places,Alley
+Places,Beach
+Places,Brook
+Places,Butte
+Places,Cliff
+Places,Coast
+Places,Coral
+Places,Creek
+Places,Delta
+Places,Field
+Places,Fjord
+Places,Gorge
+Places,Marsh
+Places,Oasis
+Places,Plain
+Places,Plaza
+Places,Ridge
+Places,River
+Places,Shore
+Places,Slope
+Places,Swamp
+Places,Wharf
+Places,Bridge
+Places,Canyon
+Places,Castle
+Places,Cavern
+Places,Cenote
+Places,Chapel
+Places,Church
+Places,Circus
+Places,Desert
+Places,Forest
+Places,Geyser
+Places,Harbor
+Places,Island
+Places,Jungle
+Places,Lagoon
+Places,Marina
+Places,Market
+Places,Meadow
+Places,Mosque
+Places,Museum
+Places,Office
+Places,Palace
+Places,Rapids
+Places,School
+Places,Shrine
+Places,Square
+Places,Steppe
+Places,Stream
+Places,Street
+Places,Studio
+Places,Suburb
+Places,Summit
+Places,Temple
+Places,Tundra
+Places,Valley
+Places,Airport
+Places,Concert
+Places,Estuary
+Places,Glacier
+Places,Highway
+Places,Iceberg
+Places,Library
+Places,Mansion
+Places,Plateau
+Places,Prairie
+Places,Sandbar
+Places,Savanna
+Places,Stadium
+Places,Theater
+Places,Village
+Places,Volcano
+Places,Wetland
+Places,Aquarium
+Places,Badlands
+Places,Carnival
+Places,Cemetery
+Places,Downtown
+Places,Fumarole
+Places,Hospital
+Places,Ice Cave
+Places,Lakeside
+Places,Mountain
+Places,Sinkhole
+Places,Cathedral
+Places,Graveyard
+Places,Ice Field
+Places,Lava Tube
+Places,Peninsula
+Places,Riverbank
+Places,Synagogue
+Places,Tributary
+Places,Waterfall
+Places,Hot Spring
+Places,Playground
+Places,Rainforest
+Places,Restaurant
+Places,Underwater
+Places,Archipelago
+Places,Canyonlands
+Places,Countryside
+Places,Marble Cave
+Places,Post Office
+Places,Beach Resort
+Places,Fire Station
+Places,Glacier Cave
+Places,Intersection
+Places,Neighborhood
+Places,Abyssal Plain
+Places,Grocery Store
+Places,Movie Theater
+Places,Limestone Cave
+Places,Mountain Range
+Places,Police Station
+Places,Geothermal Pool
+Professions,CEO
+Professions,EMT
+Professions,Chef
+Professions,Actor
+Professions,Baker
+Professions,Coach
+Professions,Judge
+Professions,Nurse
+Professions,Pilot
+Professions,Tutor
+Professions,Artist
+Professions,Dancer
+Professions,Doctor
+Professions,Editor
+Professions,Expert
+Professions,Farmer
+Professions,Lawyer
+Professions,Mentor
+Professions,Singer
+Professions,Writer
+Professions,Advisor
+Professions,Analyst
+Professions,Athlete
+Professions,Chemist
+Professions,Curator
+Professions,Dentist
+Professions,Midwife
+Professions,Plumber
+Professions,Referee
+Professions,Scholar
+Professions,Surgeon
+Professions,Teacher
+Professions,Trainer
+Professions,Attorney
+Professions,Botanist
+Professions,Composer
+Professions,Director
+Professions,Engineer
+Professions,Ethicist
+Professions,Gardener
+Professions,Linguist
+Professions,Logician
+Professions,Magician
+Professions,Mechanic
+Professions,Musician
+Professions,Producer
+Professions,Architect
+Professions,Archivist
+Professions,Astronaut
+Professions,Biologist
+Professions,Carpenter
+Professions,Counselor
+Professions,Detective
+Professions,Ecologist
+Professions,Economist
+Professions,Geologist
+Professions,Historian
+Professions,Librarian
+Professions,Lifeguard
+Professions,Paralegal
+Professions,Paramedic
+Professions,Physicist
+Professions,Scientist
+Professions,Secretary
+Professions,Therapist
+Professions,Urologist
+Professions,Zoologist
+Professions,Accountant
+Professions,Astronomer
+Professions,Axiologist
+Professions,Biographer
+Professions,Consultant
+Professions,Geneticist
+Professions,Geographer
+Professions,Instructor
+Professions,Journalist
+Professions,Landscaper
+Professions,Ontologist
+Professions,Pharmacist
+Professions,Podiatrist
+Professions,Politician
+Professions,Programmer
+Professions,Researcher
+Professions,Specialist
+Professions,Technician
+Professions,Theologian
+Professions,Tour Guide
+Professions,Translator
+Professions,Veterinary
+Professions,Cosmologist
+Professions,Demographer
+Professions,Electrician
+Professions,Ethnologist
+Professions,Firefighter
+Professions,Genealogist
+Professions,Hairdresser
+Professions,Hydrologist
+Professions,Interpreter
+Professions,Neurologist
+Professions,Orthopedist
+Professions,Park Ranger
+Professions,Philologist
+Professions,Philosopher
+Professions,Radiologist
+Professions,Rhetorician
+Professions,Salesperson
+Professions,Semiotician
+Professions,Sociologist
+Professions,Archeologist
+Professions,Cardiologist
+Professions,Cartographer
+Professions,Chiropractor
+Professions,Data Analyst
+Professions,Entomologist
+Professions,Entrepreneur
+Professions,Ethnographer
+Professions,Glaciologist
+Professions,Gynecologist
+Professions,Investigator
+Professions,Obstetrician
+Professions,Orthodontist
+Professions,Pediatrician
+Professions,Psychiatrist
+Professions,Psychologist
+Professions,Receptionist
+Professions,Risk Analyst
+Professions,Seismologist
+Professions,Statistician
+Professions,Veterinarian
+Professions,Archaeologist
+Professions,Climatologist
+Professions,Criminologist
+Professions,Dermatologist
+Professions,Herpetologist
+Professions,Ichthyologist
+Professions,Lexicographer
+Professions,Metaphysician
+Professions,Meteorologist
+Professions,Oceanographer
+Professions,Ornithologist
+Professions,Postmodernist
+Professions,Social Worker
+Professions,Structuralist
+Professions,Volcanologist
+Professions,Vulcanologist
+Professions,Animal Trainer
+Professions,Anthropologist
+Professions,Astrophysicist
+Professions,Epistemologist
+Professions,Existentialist
+Professions,Market Analyst
+Professions,Museum Curator
+Professions,Paleontologist
+Professions,Police Officer
+Professions,Policy Analyst
+Professions,Conservationist
+Professions,Network Analyst
+Professions,Ophthalmologist
+Professions,Phenomenologist
+Professions,Quality Analyst
+Professions,Systems Analyst
+Professions,Waiter/Waitress
+Professions,Anesthesiologist
+Professions,Business Analyst
+Professions,Computer Analyst
+Professions,Environmentalist
+Professions,Flight Attendant
+Professions,Forensic Analyst
+Professions,Marine Biologist
+Professions,Research Analyst
+Professions,Security Analyst
+Professions,Critical Theorist
+Professions,Deconstructionist
+Professions,Financial Analyst
+Professions,Functional Analyst
+Professions,Management Analyst
+Professions,Wildlife Biologist
+Professions,Political Scientist
+Professions,Intelligence Analyst
+Sports,BMX
+Sports,Golf
+Sports,Judo
+Sports,Luge
+Sports,Pool
+Sports,Bocce
+Sports,Bowls
+Sports,Darts
+Sports,Field
+Sports,Relay
+Sports,Rugby
+Sports,Track
+Sports,Boxing
+Sports,Discus
+Sports,Diving
+Sports,Hockey
+Sports,Karate
+Sports,NASCAR
+Sports,Rowing
+Sports,Skiing
+Sports,Soccer
+Sports,Sprint
+Sports,Squash
+Sports,Tennis
+Sports,Archery
+Sports,Bobsled
+Sports,Cricket
+Sports,Croquet
+Sports,Curling
+Sports,Cycling
+Sports,Fencing
+Sports,Frisbee
+Sports,Hurdles
+Sports,Javelin
+Sports,Netball
+Sports,Parkour
+Sports,Sailing
+Sports,Snooker
+Sports,Surfing
+Sports,Baseball
+Sports,Biathlon
+Sports,Canoeing
+Sports,Crossfit
+Sports,Foosball
+Sports,Football
+Sports,Handball
+Sports,Ice Golf
+Sports,Ice Luge
+Sports,Ice Polo
+Sports,Ice Yoga
+Sports,Kayaking
+Sports,Lacrosse
+Sports,Marathon
+Sports,Petanque
+Sports,Rallying
+Sports,Shot Put
+Sports,Skeleton
+Sports,Swimming
+Sports,Badminton
+Sports,Billiards
+Sports,Broomball
+Sports,Decathlon
+Sports,Disc Golf
+Sports,High Jump
+Sports,Ice Cross
+Sports,Ice Rugby
+Sports,Long Jump
+Sports,Nine-Ball
+Sports,Ping Pong
+Sports,Skydiving
+Sports,Taekwondo
+Sports,Triathlon
+Sports,Wrestling
+Sports,Air Hockey
+Sports,Basketball
+Sports,Eight-Ball
+Sports,Equestrian
+Sports,Gymnastics
+Sports,Ice Biking
+Sports,Ice Diving
+Sports,Ice Hockey
+Sports,Ice Racing
+Sports,Ice Rescue
+Sports,Paddleball
+Sports,Pentathlon
+Sports,Pickleball
+Sports,Pole Vault
+Sports,Snowkiting
+Sports,Triathlons
+Sports,Tug-of-War
+Sports,Volleyball
+Sports,Water Polo
+Sports,Beach Rugby
+Sports,Formula One
+Sports,Freerunning
+Sports,Ice Archery
+Sports,Ice Boating
+Sports,Ice Bowling
+Sports,Ice Curling
+Sports,Ice Dancing
+Sports,Ice Fishing
+Sports,Ice Rafting
+Sports,Ice Sailing
+Sports,Ice Skating
+Sports,Ice Surfing
+Sports,Iceboarding
+Sports,Kitesurfing
+Sports,Land Kiting
+Sports,Parachuting
+Sports,Paragliding
+Sports,Racquetball
+Sports,Short Track
+Sports,Ski Jumping
+Sports,Slacklining
+Sports,Snowshoeing
+Sports,Triathletes
+Sports,Windsurfing
+Sports,BASE Jumping
+Sports,Beach Soccer
+Sports,Beach Tennis
+Sports,Bodyboarding
+Sports,Bodybuilding
+Sports,Calisthenics
+Sports,Field Hockey
+Sports,Flowboarding
+Sports,Hang Gliding
+Sports,Horse Racing
+Sports,Ice Canoeing
+Sports,Ice Climbing
+Sports,Ice Jousting
+Sports,Ice Swimming
+Sports,Ice Yachting
+Sports,Kite Surfing
+Sports,Kneeboarding
+Sports,Landboarding
+Sports,Motor Racing
+Sports,Powerlifting
+Sports,Rugby Sevens
+Sports,Sandboarding
+Sports,Shuffleboard
+Sports,Skimboarding
+Sports,Snowboarding
+Sports,Snowmobiling
+Sports,Table Hockey
+Sports,Table Tennis
+Sports,Trampolining
+Sports,Wakeboarding
+Sports,Arm Wrestling
+Sports,Ice Sculpting
+Sports,Rock Climbing
+Sports,Roller Hockey
+Sports,Skateboarding
+Sports,Speed Skating
+Sports,Street Hockey
+Sports,Weightlifting
+Sports,Beach Handball
+Sports,Beach Ultimate
+Sports,Figure Skating
+Sports,Ice Jet Skiing
+Sports,Ice Volleyball
+Sports,Mountaineering
+Sports,Street Workout
+Sports,Sumo Wrestling
+Sports,Canopy Piloting
+Sports,Downhill Skiing
+Sports,Nordic Combined
+Sports,Wingsuit Flying
+Sports,Beach Volleyball
+Sports,Freestyle Skiing
+Sports,Horseback Riding
+Sports,Mountainboarding
+Sports,Ultimate Frisbee
+Sports,Cross-Country Skiing
+Sports,Synchronized Swimming
+Transport,Bike
+Transport,Boat
+category,word

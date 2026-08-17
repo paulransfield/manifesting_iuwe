@@ -1,0 +1,3 @@
+# Preserve foundation-word source artifacts exactly as supplied.
+# The supplied CSV files use CRLF line endings; allow the final CR as an EOL marker.
+*.csv -text whitespace=cr-at-eol
