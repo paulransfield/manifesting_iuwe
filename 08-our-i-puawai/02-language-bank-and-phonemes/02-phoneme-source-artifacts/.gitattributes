@@ -1,0 +1,3 @@
+# Preserve the phoneme source artifact exactly as supplied.
+# The supplied JSON file uses CRLF line endings; allow the final CR as an EOL marker.
+*.json -text whitespace=cr-at-eol
