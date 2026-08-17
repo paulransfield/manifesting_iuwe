@@ -1,6 +1,6 @@
 # 02 — language bank and phonemes
 
-**Status: the private rebaseline has verified the UUID/public-reference foundation, clean schema, controlled reference seed, phoneme source path, Kākano 144 successor source, and provenance-preserving word-source import. The public source-artifact record now includes separate foundation-word and phoneme evidence; application and deployment work remains future work.**
+**Status: the private rebaseline has verified the UUID/public-reference foundation, clean schema, controlled reference seed, phoneme source path, Kākano 144 successor source, provenance-preserving word-source import, and an approved Papawai v2 curated-successor snapshot. The public source-artifact record now includes separate foundation-word and phoneme evidence; application and deployment work remains future work.**
 
 The language bank treats a phoneme, word, idiom, and practice event as related but distinct records. A phoneme is not merely a character; it carries a language, IPA expression where appropriate, learner description, frequency, pedagogical position, examples, and community review context. A word may contain multiple phonemes, and `word_phonemes` records their sequence and pedagogical role.
 
@@ -8,7 +8,11 @@ The language sources include Kākano, Dolch, and Papawai material. They are star
 
 ## Foundation-word source artifacts
 
-The [Kākano 144](01-foundation-word-lists/kakano_144_seed_words.csv), [Dolch](01-foundation-word-lists/dolch_sight_words.csv), and [Papawai](01-foundation-word-lists/papawai_1800_words.csv) artifacts are published as attributable source evidence. The accompanying [source specification](01-foundation-word-lists/dolch_and_papawai_source_specification.md) records their supplied hashes, row structure, provenance statements, and the Papawai repeated-header observation. Publication does not elevate any list into a closed curriculum or replace community authority over later membership, ordering, translation, or subset decisions.
+The [Kākano 144](01-foundation-word-lists/kakano_144_seed_words.csv), [Dolch](01-foundation-word-lists/dolch_sight_words.csv), and preserved raw [Papawai v1](01-foundation-word-lists/papawai_1800_words.csv) artifacts are published as attributable source evidence. The accompanying [source specification](01-foundation-word-lists/dolch_and_papawai_source_specification.md) records their supplied hashes, row structure, provenance statements, and the Papawai repeated-header observation.
+
+The approved [Papawai v2 curated successor](01-foundation-word-lists/papawai_1800_words_v2.csv) is a separate, attributable source artifact—not a replacement for raw v1 evidence. Its [approved decision ledger](01-foundation-word-lists/papawai_1800_v2_approved_decision_ledger.csv) records 357 reviewed removals, 54 broad-everyday transport additions, five recategorisations, and retained `Boat`; its [v2 source specification](01-foundation-word-lists/papawai_1800_v2_source_specification.md) records the source and decision hashes, lineage, and review boundary. Health and wellbeing remains a deliberately separate later foundation gate.
+
+Publication does not elevate any list into a closed curriculum or replace community authority over later membership, ordering, translation, or subset decisions.
 
 ## Phoneme source artifact
 

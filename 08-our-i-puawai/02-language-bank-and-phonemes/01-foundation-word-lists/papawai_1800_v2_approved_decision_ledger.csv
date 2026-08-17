@@ -1,0 +1,418 @@
+change_id,action,proposed_category,word,review_group,rationale,review_status,source_note
+PAPV2-001,add,Transport,Bus,personal_and_local_movement,Common shared local transport concept,approved,transport candidate bank
+PAPV2-002,add,Transport,Motorcycle,personal_and_local_movement,Common personal road transport concept,approved,transport candidate bank
+PAPV2-003,add,Transport,Scooter,personal_and_local_movement,Common short-distance transport concept,approved,transport candidate bank
+PAPV2-004,add,Transport,Van,personal_and_local_movement,Common family and practical transport concept,approved,transport candidate bank
+PAPV2-005,add,Transport,Taxi,personal_and_local_movement,Common on-demand transport concept,approved,transport candidate bank
+PAPV2-006,add,Transport,Ute,personal_and_local_movement,Common practical road transport concept in local use,approved,transport candidate bank
+PAPV2-007,add,Transport,Pickup truck,personal_and_local_movement,Common practical road transport concept,approved,transport candidate bank
+PAPV2-008,add,Transport,Minivan,personal_and_local_movement,Common family transport concept,approved,transport candidate bank
+PAPV2-009,add,Transport,Camper van,personal_and_local_movement,Recognisable travel and family transport concept,approved,transport candidate bank
+PAPV2-010,add,Transport,Carriage,personal_and_local_movement,Recognisable non-motorised transport concept,approved,transport candidate bank
+PAPV2-011,add,Transport,Horse-drawn carriage,personal_and_local_movement,Recognisable historical and cultural transport concept,approved,transport candidate bank
+PAPV2-012,add,Transport,Wagon,personal_and_local_movement,Common carrying and rural transport concept,approved,transport candidate bank
+PAPV2-013,add,Transport,Trike,personal_and_local_movement,Accessible wheeled transport concept,approved,transport candidate bank
+PAPV2-014,add,Transport,Kick scooter,personal_and_local_movement,Common child and neighbourhood movement concept,approved,transport candidate bank
+PAPV2-015,add,Transport,Skateboard,personal_and_local_movement,Common wheeled movement concept,approved,transport candidate bank
+PAPV2-016,add,Transport,Roller Skates,personal_and_local_movement,Common wheeled movement concept,approved,transport candidate bank
+PAPV2-017,add,Transport,Electric Bike,personal_and_local_movement,Contemporary assisted personal transport concept,approved,transport candidate bank
+PAPV2-018,add,Transport,Electric Scooter,personal_and_local_movement,Contemporary assisted personal transport concept,approved,transport candidate bank
+PAPV2-019,add,Transport,Articulated bus,public_service_and_accessible_transport,Recognisable high-capacity public transport concept,approved,transport candidate bank
+PAPV2-020,add,Transport,Double-decker bus,public_service_and_accessible_transport,Recognisable public transport concept,approved,transport candidate bank
+PAPV2-021,add,Transport,Trolleybus,public_service_and_accessible_transport,Recognisable public transport concept,approved,transport candidate bank
+PAPV2-022,add,Transport,Tram,public_service_and_accessible_transport,Recognisable urban public transport concept,approved,transport candidate bank
+PAPV2-023,add,Transport,Metro,public_service_and_accessible_transport,Recognisable urban rail transport concept,approved,transport candidate bank
+PAPV2-024,add,Transport,Light rail,public_service_and_accessible_transport,Recognisable public rail transport concept,approved,transport candidate bank
+PAPV2-025,add,Transport,Passenger train,public_service_and_accessible_transport,Clarifies people-carrying rail transport,approved,transport candidate bank
+PAPV2-026,add,Transport,Ferry,public_service_and_accessible_transport,Common public water transport concept,approved,transport candidate bank
+PAPV2-027,add,Transport,Fire truck,public_service_and_accessible_transport,Common emergency-service transport concept,approved,transport candidate bank
+PAPV2-028,add,Transport,Police car,public_service_and_accessible_transport,Common emergency-service transport concept,approved,transport candidate bank
+PAPV2-029,add,Transport,Delivery van,public_service_and_accessible_transport,Common goods-delivery transport concept,approved,transport candidate bank
+PAPV2-030,add,Transport,Mail truck,public_service_and_accessible_transport,Recognisable postal-service transport concept,approved,transport candidate bank
+PAPV2-031,add,Transport,Garbage truck,public_service_and_accessible_transport,Recognisable community-service transport concept,approved,transport candidate bank
+PAPV2-032,add,Transport,Wheelchair-accessible vehicle,public_service_and_accessible_transport,Names accessible transport directly,approved,transport candidate bank
+PAPV2-033,add,Transport,Canoe,water_transport,Common small-watercraft concept,approved,transport candidate bank
+PAPV2-034,add,Transport,Kayak,water_transport,Common small-watercraft concept,approved,transport candidate bank
+PAPV2-035,add,Transport,Raft,water_transport,Common simple-watercraft concept,approved,transport candidate bank
+PAPV2-036,add,Transport,Rowboat,water_transport,Common small-watercraft concept,approved,transport candidate bank
+PAPV2-037,add,Transport,Sailboat,water_transport,Common wind-powered watercraft concept,approved,transport candidate bank
+PAPV2-038,add,Transport,Ship,water_transport,Broad sea-transport concept,approved,transport candidate bank
+PAPV2-039,add,Transport,Submarine,water_transport,Recognisable underwater transport concept,approved,transport candidate bank
+PAPV2-040,add,Transport,Water taxi,water_transport,Common water-route public transport concept,approved,transport candidate bank
+PAPV2-041,add,Transport,Motorboat,water_transport,Common powered-watercraft concept,approved,transport candidate bank
+PAPV2-042,add,Transport,Tugboat,water_transport,Recognisable working-watercraft concept,approved,transport candidate bank
+PAPV2-043,add,Transport,Lifeboat,water_transport,Recognisable safety-watercraft concept,approved,transport candidate bank
+PAPV2-044,add,Transport,Yacht,water_transport,Recognisable recreational watercraft concept,approved,transport candidate bank
+PAPV2-045,add,Transport,Barge,water_transport,Recognisable goods-carrying watercraft concept,approved,transport candidate bank
+PAPV2-046,add,Transport,Airplane,air_and_connected_routes,Broad everyday flight concept,approved,transport candidate bank
+PAPV2-047,add,Transport,Helicopter,air_and_connected_routes,Recognisable flight concept,approved,transport candidate bank
+PAPV2-048,add,Transport,Balloon,air_and_connected_routes,Recognisable air-travel concept,approved,transport candidate bank
+PAPV2-049,add,Transport,Glider,air_and_connected_routes,Recognisable unpowered flight concept,approved,transport candidate bank
+PAPV2-050,add,Transport,Jet,air_and_connected_routes,Recognisable fast-aircraft concept,approved,transport candidate bank
+PAPV2-051,add,Transport,Cable car,air_and_connected_routes,Recognisable cable-route transport concept,approved,transport candidate bank
+PAPV2-052,add,Transport,Funicular,air_and_connected_routes,Recognisable incline-route transport concept,approved,transport candidate bank
+PAPV2-053,add,Transport,Gondola,air_and_connected_routes,Recognisable cable-route transport concept,approved,transport candidate bank
+PAPV2-054,add,Transport,Monorail,air_and_connected_routes,Recognisable rail-route transport concept,approved,transport candidate bank
+PAPV2-055,recategorise,Transport,Ambulance,existing_representation,Already represented in Papawai and reviewed for transport category coherence,approved,existing Papawai category Objects
+PAPV2-056,recategorise,Transport,Bicycle,existing_representation,Already represented in Papawai and reviewed for transport category coherence,approved,existing Papawai category Objects
+PAPV2-057,recategorise,Transport,Car,existing_representation,Already represented in Papawai and reviewed for transport category coherence,approved,existing Papawai category Objects
+PAPV2-058,recategorise,Transport,Plane,existing_representation,Already represented in Papawai and reviewed for transport category coherence,approved,existing Papawai category Objects
+PAPV2-059,recategorise,Transport,Train,existing_representation,Already represented in Papawai and reviewed for transport category coherence,approved,existing Papawai category Objects
+PAPV2-060,retain,Transport,Boat,existing_representation,Already correctly represented; do not add a duplicate word form,approved,existing Papawai category Transport
+PAPV2-061,remove,,Patrol,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-062,remove,,Mooning,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-063,remove,,Play Bow,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-064,remove,,High Five,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-065,remove,,High-Five,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-066,remove,,Obedience,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-067,remove,,Play Dead,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-068,remove,,Roll Over,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-069,remove,,Tug-of-War,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-070,remove,,Bungee Jump,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-071,remove,,Cow Tipping,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-072,remove,,Headbanging,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-073,remove,,Moonwalking,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-074,remove,,Hula Hooping,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-075,remove,,Belly Dancing,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-076,remove,,Limbo Dancing,expanded_removal_review,not foundational,approved,existing Papawai category Actions
+PAPV2-077,remove,,Ibis,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-078,remove,,Kite,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-079,remove,,Knot,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-080,remove,,Ruff,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-081,remove,,Wren,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-082,remove,,Egret,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-083,remove,,Hobby,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-084,remove,,Snipe,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-085,remove,,Avocet,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-086,remove,,Canary,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-087,remove,,Curlew,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-088,remove,,Dunlin,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-089,remove,,Martin,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-090,remove,,Osprey,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-091,remove,,Thrush,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-092,remove,,Goshawk,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-093,remove,,Kestrel,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-094,remove,,Lapwing,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-095,remove,,Warbler,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-096,remove,,Waxwing,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-097,remove,,Blue Jay,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-098,remove,,Bluebird,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-099,remove,,Cardinal,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-100,remove,,Nuthatch,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-101,remove,,Red Kite,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-102,remove,,Redshank,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-103,remove,,Starling,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-104,remove,,Titmouse,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-105,remove,,Whimbrel,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-106,remove,,Woodcock,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-107,remove,,Chickadee,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-108,remove,,Cormorant,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-109,remove,,Goldfinch,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-110,remove,,Peregrine,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-111,remove,,Ptarmigan,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-112,remove,,Spoonbill,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-113,remove,,Turnstone,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-114,remove,,Black Kite,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-115,remove,,Jack Snipe,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-116,remove,,Red Grouse,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-117,remove,,Sanderling,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-118,remove,,Black Stork,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-119,remove,,Great Snipe,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-120,remove,,Sparrowhawk,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-121,remove,,White Stork,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-122,remove,,Black Grouse,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-123,remove,,Great Bustard,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-124,remove,,Red Phalarope,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-125,remove,,Grey Phalarope,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-126,remove,,Little Bustard,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-127,remove,,Houbara Bustard,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-128,remove,,Purple Sandpiper,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-129,remove,,Red-Necked Grebe,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-130,remove,,Great Crested Grebe,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-131,remove,,Macqueen’s Bustard,expanded_removal_review,not foundational,approved,existing Papawai category Animals
+PAPV2-132,remove,,Pho,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-133,remove,,Brie,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-134,remove,,Feta,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-135,remove,,Maki,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-136,remove,,Orzo,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-137,remove,,Udon,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-138,remove,,Cumin,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-139,remove,,Gouda,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-140,remove,,Barley,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-141,remove,,Bulgur,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-142,remove,,Danish,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-143,remove,,Eclair,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-144,remove,,Kimchi,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-145,remove,,Mousse,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-146,remove,,Nigiri,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-147,remove,,Paneer,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-148,remove,,Quinoa,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-149,remove,,Rotini,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-150,remove,,Tamari,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-151,remove,,Trifle,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-152,remove,,Brioche,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-153,remove,,Cannoli,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-154,remove,,Cheddar,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-155,remove,,Cobbler,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-156,remove,,Crumble,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-157,remove,,Fusilli,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-158,remove,,Gnocchi,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-159,remove,,Lasagna,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-160,remove,,Oregano,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-161,remove,,Paprika,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-162,remove,,Ravioli,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-163,remove,,Ricotta,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-164,remove,,Risotto,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-165,remove,,Serrano,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-166,remove,,Sherbet,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-167,remove,,Tempura,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-168,remove,,Baguette,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-169,remove,,Bibimbap,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-170,remove,,Cardamom,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-171,remove,,Ciabatta,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-172,remove,,Couscous,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-173,remove,,Empanada,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-174,remove,,Focaccia,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-175,remove,,Habanero,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-176,remove,,Halloumi,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-177,remove,,Linguine,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-178,remove,,Macaroni,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-179,remove,,Oat Milk,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-180,remove,,Pad Thai,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-181,remove,,Parmesan,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-182,remove,,Pine Nut,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-183,remove,,Rigatoni,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-184,remove,,Tarragon,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-185,remove,,Chia Seed,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-186,remove,,Pistachio,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-187,remove,,Soy Sauce,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-188,remove,,Bay Leaves,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-189,remove,,Cannelloni,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-190,remove,,Canola Oil,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-191,remove,,Fettuccine,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-192,remove,,Fish Sauce,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-193,remove,,Mascarpone,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-194,remove,,Mozzarella,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-195,remove,,Peanut Oil,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-196,remove,,Tortellini,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-197,remove,,Vermicelli,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-198,remove,,Blue Cheese,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-199,remove,,Goat Cheese,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-200,remove,,Green Beans,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-201,remove,,Truffle Oil,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-202,remove,,Carrot Juice,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-203,remove,,Chili Powder,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-204,remove,,Coconut Milk,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-205,remove,,Cream Cheese,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-206,remove,,Flaxseed Oil,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-207,remove,,Coconut Water,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-208,remove,,Scotch Bonnet,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-209,remove,,Sunflower Oil,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-210,remove,,Beetroot Juice,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-211,remove,,Teriyaki Sauce,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-212,remove,,Cranberry Juice,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-213,remove,,Pineapple Juice,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-214,remove,,Balsamic Vinegar,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-215,remove,,Butternut Squash,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-216,remove,,Red Wine Vinegar,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-217,remove,,White Wine Vinegar,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-218,remove,,Apple Cider Vinegar,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-219,remove,,Worcestershire Sauce,expanded_removal_review,not foundational,approved,existing Papawai category Food and Drink
+PAPV2-220,remove,,Berg,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-221,remove,,Kame,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-222,remove,,Mesa,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-223,remove,,Opal,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-224,remove,,Peat,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-225,remove,,Rift,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-226,remove,,Silt,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-227,remove,,Tarn,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-228,remove,,Algae,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-229,remove,,Amber,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-230,remove,,Bayou,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-231,remove,,Bight,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-232,remove,,Butte,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-233,remove,,Esker,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-234,remove,,Gulch,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-235,remove,,Krill,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-236,remove,,Loess,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-237,remove,,Serac,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-238,remove,,Shale,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-239,remove,,Taiga,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-240,remove,,Topaz,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-241,remove,,Arroyo,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-242,remove,,Basalt,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-243,remove,,Boreal,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-244,remove,,Gneiss,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-245,remove,,Hoodoo,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-246,remove,,Kettle,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-247,remove,,Schist,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-248,remove,,Slider,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-249,remove,,Tundra,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-250,remove,,Bedrock,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-251,remove,,Drumlin,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-252,remove,,Gharial,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-253,remove,,Moraine,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-254,remove,,Nunatak,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-255,remove,,Painted,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-256,remove,,Savanna,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-257,remove,,Alluvium,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-258,remove,,Amethyst,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-259,remove,,Anaconda,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-260,remove,,Flatback,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-261,remove,,Fumarole,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-262,remove,,Savannah,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-263,remove,,Snapping,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-264,remove,,Galapagos,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-265,remove,,Green sea,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-266,remove,,Hawksbill,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-267,remove,,Lava Tube,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-268,remove,,Quartzite,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-269,remove,,Red-eared,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-270,remove,,Box turtle,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-271,remove,,Loggerhead,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-272,remove,,Needleleaf,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-273,remove,,Bergschrund,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-274,remove,,Leatherback,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-275,remove,,Wood turtle,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-276,remove,,Green turtle,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-277,remove,,Mixed Forest,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-278,remove,,Olive ridley,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-279,remove,,Spur-thighed,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-280,remove,,Kemp’s ridley,expanded_removal_review,not foundational,approved,existing Papawai category Nature
+PAPV2-281,remove,,CPR,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-282,remove,,EMT,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-283,remove,,MRI,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-284,remove,,LEGO,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-285,remove,,Xbox,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-286,remove,,Bedpan,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-287,remove,,Biopsy,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-288,remove,,Suture,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-289,remove,,Blu-ray,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-290,remove,,Cologne,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-291,remove,,IV Stand,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-292,remove,,Nintendo,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-293,remove,,Play-Doh,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-294,remove,,Catacombs,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-295,remove,,Game Disc,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-296,remove,,Mausoleum,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-297,remove,,Blood Test,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-298,remove,,Clown Nose,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-299,remove,,Urine Test,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-300,remove,,Call Button,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-301,remove,,ID Bracelet,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-302,remove,,Stool Sample,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-303,remove,,Action Figure,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-304,remove,,Biohazard Bin,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-305,remove,,Rubber Chicken,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-306,remove,,Rubik’s Cube,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-307,remove,,Fitness Tracker,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-308,remove,,Medical Records,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-309,remove,,Medical Bracelet,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-310,remove,,Medical Waste Bin,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-311,remove,,Medical Alert System,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-312,remove,,Health Insurance Card,expanded_removal_review,not foundational,approved,existing Papawai category Objects
+PAPV2-313,remove,,Mesa,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-314,remove,,Butte,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-315,remove,,Cenote,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-316,remove,,Tundra,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-317,remove,,Savanna,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-318,remove,,Badlands,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-319,remove,,Fumarole,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-320,remove,,Lava Tube,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-321,remove,,Canyonlands,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-322,remove,,Marble Cave,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-323,remove,,Beach Resort,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-324,remove,,Glacier Cave,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-325,remove,,Abyssal Plain,expanded_removal_review,not foundational,approved,existing Papawai category Places
+PAPV2-326,remove,,CEO,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-327,remove,,EMT,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-328,remove,,Ethicist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-329,remove,,Logician,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-330,remove,,Archivist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-331,remove,,Paralegal,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-332,remove,,Urologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-333,remove,,Axiologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-334,remove,,Geneticist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-335,remove,,Ontologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-336,remove,,Theologian,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-337,remove,,Demographer,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-338,remove,,Philologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-339,remove,,Philosopher,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-340,remove,,Radiologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-341,remove,,Rhetorician,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-342,remove,,Semiotician,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-343,remove,,Cartographer,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-344,remove,,Entomologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-345,remove,,Ethnographer,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-346,remove,,Glaciologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-347,remove,,Gynecologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-348,remove,,Orthodontist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-349,remove,,Risk Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-350,remove,,Seismologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-351,remove,,Statistician,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-352,remove,,Climatologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-353,remove,,Criminologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-354,remove,,Dermatologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-355,remove,,Herpetologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-356,remove,,Ichthyologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-357,remove,,Lexicographer,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-358,remove,,Metaphysician,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-359,remove,,Ornithologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-360,remove,,Postmodernist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-361,remove,,Structuralist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-362,remove,,Vulcanologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-363,remove,,Epistemologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-364,remove,,Existentialist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-365,remove,,Market Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-366,remove,,Paleontologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-367,remove,,Policy Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-368,remove,,Conservationist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-369,remove,,Network Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-370,remove,,Ophthalmologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-371,remove,,Phenomenologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-372,remove,,Quality Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-373,remove,,Systems Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-374,remove,,Anesthesiologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-375,remove,,Forensic Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-376,remove,,Security Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-377,remove,,Critical Theorist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-378,remove,,Deconstructionist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-379,remove,,Functional Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-380,remove,,Management Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-381,remove,,Wildlife Biologist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-382,remove,,Political Scientist,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-383,remove,,Intelligence Analyst,expanded_removal_review,not foundational,approved,existing Papawai category Professions
+PAPV2-384,remove,,Bocce,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-385,remove,,NASCAR,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-386,remove,,Biathlon,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-387,remove,,Lacrosse,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-388,remove,,Skeleton,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-389,remove,,Broomball,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-390,remove,,Disc Golf,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-391,remove,,Nine-Ball,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-392,remove,,Ice Rescue,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-393,remove,,Ice Archery,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-394,remove,,Ice Boating,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-395,remove,,Ice Bowling,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-396,remove,,Ice Curling,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-397,remove,,Ice Dancing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-398,remove,,Ice Fishing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-399,remove,,Ice Rafting,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-400,remove,,Ice Sailing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-401,remove,,Ice Surfing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-402,remove,,Iceboarding,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-403,remove,,Snowshoeing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-404,remove,,BASE Jumping,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-405,remove,,Bodyboarding,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-406,remove,,Ice Canoeing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-407,remove,,Ice Jousting,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-408,remove,,Ice Swimming,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-409,remove,,Ice Yachting,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-410,remove,,Landboarding,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-411,remove,,Sandboarding,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-412,remove,,Ice Jet Skiing,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-413,remove,,Ice Volleyball,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-414,remove,,Street Workout,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-415,remove,,Canopy Piloting,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-416,remove,,Nordic Combined,expanded_removal_review,not foundational,approved,existing Papawai category Sports
+PAPV2-417,remove,,Wingsuit Flying,expanded_removal_review,not foundational,approved,existing Papawai category Sports
