@@ -1,22 +1,22 @@
 # Ī-puāwai provisional sense-domain register
 
-**Status: approved provisional single sign-off; community editorial review remains to be enabled.**
+**Status: approved provisional 25-domain register; attributable faculty-space and Papawai reference identities published; community editorial review remains to be enabled.**
 
 This register records the current 25 **sense domains** for Ī-puāwai. They are changeable organising territories for future reviewed learning relationships. They are **not** dictionary entries, a closed curriculum, source-list membership, a translation table, an image taxonomy, a carousel specification, or an approval of any individual word, phrase, asset, or visual relationship.
 
-The current provisional sign-off authority is **Paul Ransfield, Kapai Group**, until community editorial teams are enabled. This is a transparent temporary governance arrangement, not a substitute for the language, cultural, pedagogical, rights, and kaitiaki review required by later relationship decisions.
+The **source** of the current sense-domain register is **AI++ co-design: Manus and Paul Ransfield**; its public **attribution** is **Manus and Paul Ransfield**. The present provisional sign-off authority is **Paul Ransfield** until community editorial teams are enabled. These are distinct records: sign-off does not replace source, and attribution does not confer permanent authority. Community editorial, language, cultural, pedagogical, rights, and kaitiaki review remain necessary for later relationship decisions.
 
 > A canonical word is not its only meaning. A word sense is not a sense domain. An available image is not a curriculum decision. The relationships, their evidence, and the people authorised to review them remain the **healthy living social learning system**.
 
 ## What this register now establishes
 
-The private clean Ī-puāwai foundation can now retain a domain identity, its boundary, and its first attributable provisional review record. That creates a stable place for future review without pretending that the later relationships are already true. Its purpose is to support a **healthy living social learning system** in which change can remain attributable, reviewable, and reversible.
+The private clean Ī-puāwai foundation can now retain a domain identity, its boundary, and its first attributable provisional review record. It can also retain the eight faculty-space reference identities and the separate Papawai root with Phonemes, Oracy, Literacy, and Numeracy child references. That creates stable places for future review without pretending that the later relationships are already true. Its purpose is to support a **healthy living social learning system** in which change can remain attributable, reviewable, and reversible.
 
-The following work remains separate and unapproved by this register: faculty-to-domain and foundation-to-domain crosswalks; word senses; word-sense-to-domain memberships; translations; assets; visual eligibility; phrase patterns; voice; practice events; and carousel selection.
+The following work remains separate and unapproved by this register: faculty-to-domain and foundation-to-domain crosswalks; reusable learning statements; word senses; word-sense-to-domain memberships; translations; assets; visual eligibility; phrase patterns; voice; practice events; and carousel selection.
 
 ## The eight faculty spaces
 
-The following eight **faculty spaces** are a separate reference dimension for the healthy living social learning system. They are listed here so the public architecture is legible. This register does **not** assign any sense domain to a faculty space; those crosswalks require their own later review.
+The following eight **faculty spaces** are a separate reference dimension for the healthy living social learning system. Their source and attribution are **Paul Ransfield, Kapai Group**; their present provisional sign-off is **Paul Ransfield**; and `haporiCRM_ID` remains transparently **to be supplied**. They are listed here so the public architecture is legible. This register does **not** assign any sense domain to a faculty space; those crosswalks require their own later review.
 
 | Faculty space | Public working orientation |
 |---|---|
@@ -30,6 +30,20 @@ The following eight **faculty spaces** are a separate reference dimension for th
 | **Ngātāhitanga** | Intersections, connections, and participation across people, places, learning contexts, and systems. |
 
 These short English descriptions are public working orientations, not substitutes for community-held meanings or language authority. They exist to explain the architecture while the appropriate community and kaitiaki review pathways continue to develop.
+
+## Papawai foundation references
+
+**Papawai** is a separate foundation-layer umbrella, not a faculty space or sense domain. Its current reference structure has the same source, attribution, provisional sign-off, and transparent `haporiCRM_ID` boundary as the faculty-space reference ledger: **Paul Ransfield, Kapai Group**; **Paul Ransfield**; and **to be supplied**.
+
+```text
+Papawai
+├── Phonemes
+├── Oracy
+├── Literacy
+└── Numeracy
+```
+
+These are stable reference identities only. They do not prescribe a pedagogical sequence, assign a sense domain, approve a word membership, or establish a relationship to an asset, visual, learning statement, translation, or carousel.
 
 ## The 25 provisional organising territories
 
@@ -89,10 +103,11 @@ The register also does not allow visual availability to decide curriculum member
 | **Auahatanga** | The faculty-space name used for creative practice, imagination, expression, and making new possibilities. |
 | **Taiao** | The faculty-space name used for the natural world, environments, places, and ecological relationships. |
 | **Ngātāhitanga** | The faculty-space name used for intersections, connections, and participation across people, places, learning contexts, and systems. |
-| **Papawai** | The separate foundation-layer umbrella beneath which later phonetics, oracy, literacy, and numeracy reference layers may sit. Papawai is not a faculty space and does not itself assign a sense domain or a word to a learning sequence. |
+| **Papawai** | The separate foundation-layer umbrella with **Phonemes**, Oracy, Literacy, and Numeracy child reference identities. Papawai is not a faculty space and does not itself assign a sense domain or a word to a learning sequence. |
 | **Canonical word** | The stable, normalised underlying word-form identity used to retain source occurrences without treating any one source row, spelling context, translation, image, or meaning as the whole record. A canonical word is not yet a word sense. |
 | **Sense domain** | A changeable organising territory for reviewed learning relationships. It is not a dictionary definition, a source category, a word sense, an asset category, or curriculum authority. |
 | **Word sense** | A future Ī-puāwai project-local relational identity for a specific intended meaning and learning use of a canonical word in a language. It is richer than a dictionary gloss and remains separate from a sense domain. |
+| **Learning statement** | A designed-next reusable learner-facing expression, expected to be limited to 144 characters and separately reviewed when attached to a sense domain, faculty space, or language-specific word sense. It is not yet an operational record. |
 
 ## Reading alongside the wider Living Book
 

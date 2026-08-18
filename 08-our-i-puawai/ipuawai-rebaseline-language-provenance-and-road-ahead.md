@@ -1,12 +1,12 @@
 # Ī-puāwai rebaseline: language, provenance, and the road ahead
 
-**Status: a private clean foundation is operational; public source evidence is published; semantic, visual, and multilingual relationships remain deliberately governed work.**
+**Status: a private clean schema-v5 foundation is operational; public source and reference evidence is published; semantic, visual, multilingual, and crosswalk relationships remain deliberately governed work.**
 
 Ī-puāwai is becoming a community-held language-and-provenance database. This document records where the work has recently been, what is now reliable, and the challenges that must be faced before the system can honestly present words, senses, images, translations, voice, and practice as connected learning relationships.
 
 It is not a claim that the language bank is finished. It is a shared account of a transition: from a fast, informative minimum viable product to a more durable foundation where evidence is preserved, decisions are attributable, relationships can be reviewed, and future change does not need to begin from scratch.
 
-> **A word form is not its meaning. A source occurrence is not curriculum authority. An available image is not an approved visual referent. A translation is not created by proximity. The relationships, their evidence, and the people authorised to review them are the living learning system.**
+> **A word form is not its meaning. A source occurrence is not curriculum authority. An available image is not an approved visual referent. A translation is not created by proximity. The relationships, their evidence, and the people authorised to review them are the healthy living social learning system.**
 
 ## Where we have recently been
 
@@ -34,12 +34,13 @@ This sequence is intentionally narrow. Before a database, parser, seed runner, o
 | Papawai interpretation | The repeated final `category,word` row in raw v1 received a separate header-skip interpretation. | Raw v1 and its original historical membership record remained intact. |
 | Curated successors | Papawai v2 added approved everyday transport coverage; v3 added an approved Health and Wellbeing boundary. | Decision ledgers, parent hashes, and earlier source snapshots remained visible. |
 | Application proof | A read-only clean-schema Word Bank was added locally and tested. | Legacy routes, source artifacts, and persistent databases were not repurposed or rewritten. |
+| Relationship reference foundation | Schema v5 introduced governed reference capacity. The 25 provisional sense domains, eight faculty spaces, and Papawai root with Phonemes, Oracy, Literacy, and Numeracy child layers were seeded through checksum-verified, repeat-safe ledgers. | No faculty/domain or foundation/domain crosswalk, learning statement, word sense, asset, visual, translation, phrase, curriculum sequence, or carousel decision was implied. |
 
 This is the practical change-control method now available to the community: a later improvement can be proposed, reviewed, attributed, tested, and recorded without making the past disappear.
 
 ## Where we are now
 
-The private clean development database is at **schema version 4**. It has a UUID and public-reference identity foundation, enforced SQLite foreign keys, three language records (`eng`, `mri`, `cmn`), and five community records. Māori dialect records are intentionally not fabricated: recognised dialect relationships require their own language-scoped community authority and are not represented as country-code substitutes.
+The private clean development database is at **schema version 5**. It has a UUID and public-reference identity foundation, enforced SQLite foreign keys, three language records (`eng`, `mri`, `cmn`), five community records, 25 provisional sense-domain identities with first review records, eight faculty-space reference identities, and a Papawai root with Phonemes, Oracy, Literacy, and Numeracy child reference identities. Māori dialect records are intentionally not fabricated: recognised dialect relationships require their own language-scoped community authority and are not represented as country-code substitutes.
 
 The present foundation contains a transparent 689-record phoneme seed and retained community associations. It also contains 1,909 canonical English word records, each with a stable UUID and `w-...` public reference. These canonical records resolve forms across five immutable source snapshots—Kākano 144, Dolch, raw Papawai v1, approved Papawai v2, and approved Papawai v3—while retaining 4,826 historical source memberships.
 
@@ -51,6 +52,9 @@ The present foundation contains a transparent 689-record phoneme seed and retain
 | Source snapshot | A byte-identifiable, attributable source artifact at a point in time. | A closed canon or an instruction to replace earlier evidence. |
 | Source membership | Evidence that a word occurred in a named source, category, and row context. | A duplicate word identity, a word sense, a translation, or a visual link. |
 | Public reference | A short, stable human-facing handle for a record. | A production filename, CRM identifier, or external-platform claim. |
+| Sense domain | A changeable organising territory with its first attributable provisional review record. | A dictionary meaning, word list, faculty assignment, foundation assignment, asset category, or carousel rule. |
+| Faculty space | An attributable broad social-learning reference identity. | A curriculum subject, domain crosswalk, word membership, or permanent cultural authority. |
+| Papawai foundation layer | An attributable Papawai umbrella or child reference identity. | A prescribed sequence, crosswalk, word membership, or learner statement. |
 
 The local read-only Word Bank now provides a small but important proof: canonical English words and retained source memberships can be displayed from the clean schema without using the legacy Word ORM or modifying the database. This is an application proof, not yet a public deployment claim.
 
@@ -117,9 +121,9 @@ The following constraints are active design commitments, not temporary inconveni
 
 | Status | Present scope |
 |---|---|
-| **Operational private foundation** | UUID/public references; foreign-key protection; clean schema version 4; language/community reference seed; phoneme seed; immutable word-source snapshots and memberships; Papawai interpretation and successor lineage; repeat-safe seed runners; local read-only Word Bank proof. |
+| **Operational private foundation** | UUID/public references; foreign-key protection; clean schema version 5; language/community reference seed; phoneme seed; immutable word-source snapshots and memberships; Papawai interpretation and successor lineage; 25 provisional sense domains with first reviews; eight attributable faculty spaces; Papawai root with Phonemes, Oracy, Literacy, and Numeracy child references; repeat-safe seed runners; local read-only Word Bank proof. |
 | **Under test** | Controlled word-sense catalogue; sense-to-visual relationships; governed carousel data path; asset registration and review workflow; bilingual relationship proofs. |
-| **Designed next** | Approved translations and learner statements; voice and TTS attribution; phrase patterns; production agreements; practice-event and delivery relationships. |
+| **Designed next** | Reviewed faculty/domain and foundation/domain crosswalks; reusable 144-character learning statements; approved translations; voice and TTS attribution; phrase patterns; production agreements; practice-event and delivery relationships. |
 | **Deferred by design** | Automatic Discourse linking, CRM dependency during seeding, billing/receipts, scheduled-event operations, image-led curriculum selection, and unreviewed Wairuatanga vocabulary proposals. |
 
 The source CSV artifacts remain immutable. The legacy `ipuawai.db` remains preserved evidence and is not a target for this rebaseline. The current `ipuawai_next.db` is a disposable, rebuildable clean development database; it is not itself published as an authoritative public artifact.
@@ -128,7 +132,7 @@ The source CSV artifacts remain immutable. The legacy `ipuawai.db` remains prese
 
 Ī-puāwai is relational rather than transactional. It provides a technical structure for reciprocity, correction, and continuity, but it does not replace the people who hold language, rights, pedagogical, and cultural authority.
 
-Community kaitiaki may review, correct, approve, defer, or decline relationships. A later decision creates an attributable successor or relationship record; it does not silently rewrite source evidence. The Living Book records enough context for a future whānau member, developer, researcher, or AI to distinguish source from interpretation, proposal from approval, historical evidence from current use, and technical capability from community authority.
+Community kaitiaki may review, correct, approve, defer, or decline relationships. A later decision creates an attributable successor or relationship record; it does not silently rewrite source evidence. The Living Book records enough context for a future whānau member, developer, researcher, or AI to distinguish source from attribution, sign-off from source, proposal from approval, historical evidence from current use, and technical capability from community authority.
 
 This is the practical value of the rebaseline: not that change becomes slow, but that change becomes **legible**. A community can make a narrow decision while the lived reason for it is still present, retain the evidence, and let future people understand how and why the system moved.
 
