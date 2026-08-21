@@ -1,6 +1,6 @@
 # Ī-puāwai provisional sense-domain register
 
-**Status: approved provisional 25-domain register; attributable faculty-space and Papawai reference identities published; community editorial review remains to be enabled.**
+**Status: approved provisional 25-domain register; attributable faculty-space and Papawai reference identities published; Wairuatanga recorded as an equal faculty space under equitable governance; schema-v6 relationship capacity is private and empty; community editorial review remains to be enabled.**
 
 This register records the current 25 **sense domains** for Ī-puāwai. They are changeable organising territories for future reviewed learning relationships. They are **not** dictionary entries, a closed curriculum, source-list membership, a translation table, an image taxonomy, a carousel specification, or an approval of any individual word, phrase, asset, or visual relationship.
 
@@ -10,7 +10,7 @@ The **source** of the current sense-domain register is **AI++ co-design: Manus a
 
 ## What this register now establishes
 
-The private clean Ī-puāwai foundation can now retain a domain identity, its boundary, and its first attributable provisional review record. It can also retain the eight faculty-space reference identities and the separate Papawai root with Phonemes, Oracy, Literacy, and Numeracy child references. That creates stable places for future review without pretending that the later relationships are already true. Its purpose is to support a **healthy living social learning system** in which change can remain attributable, reviewable, and reversible.
+The private clean Ī-puāwai foundation can now retain a domain identity, its boundary, and its first attributable provisional review record. It can also retain the eight faculty-space reference identities and the separate Papawai root with Phonemes, Oracy, Literacy, and Numeracy child references. Schema v6 adds private, empty relationship capacity for future reviewed learning work. That creates stable places for future review without pretending that the later relationships are already true. Its purpose is to support a **healthy living social learning system** in which change can remain attributable, reviewable, and reversible.
 
 The following work remains separate and unapproved by this register: faculty-to-domain and foundation-to-domain crosswalks; reusable learning statements; word senses; word-sense-to-domain memberships; translations; assets; visual eligibility; phrase patterns; voice; practice events; and carousel selection.
 
@@ -23,7 +23,7 @@ The following eight **faculty spaces** are a separate reference dimension for th
 | **Whanaungatanga** | Relationships, connection, belonging, and the conditions for learning with and through one another. |
 | **Manaakitanga** | Care, hospitality, support, and the respectful conditions that enable participation. |
 | **Kaitiakitanga** | Responsible care, protection, and accountability in relation to people, places, resources, and environments. |
-| **Wairuatanga** | A protected space for spiritual, relational, and meaning-making questions; it is not a generic category into which all belief content may be placed. |
+| **Wairuatanga** | An equal faculty space for spiritual, relational, and meaning-making questions, governed equitably alongside the other faculty spaces. It is neither exceptional nor quarantined; later relationships require transparent, appropriate community authority and review. |
 | **Hangarau** | Technology, practical systems, tools, and making in their social and learning contexts. |
 | **Auahatanga** | Creative practice, imagination, expression, and the making of new possibilities. |
 | **Taiao** | The natural world, environments, places, and ecological relationships. |
@@ -75,9 +75,9 @@ These are stable reference identities only. They do not prescribe a pedagogical 
 | `language_oracy_literacy` | Language, oracy, and literacy | Letters, sounds, words, reading, writing, listening, speaking, and communication. |
 | `digital_literacy_digital_presence` | Digital literacy and digital presence | Everyday digital concepts, files, interfaces, devices, online participation, and digital presence. |
 
-## Protected Wairuatanga boundary
+## Wairuatanga as an equal faculty space
 
-`belief_spirituality_worldviews` exists to make a governance boundary visible. It does not authorise an image, a word list, a translation, a word sense, or a carousel placement. **Wairuatanga is not a generic synonym for all belief systems.** Any later relationship in this territory requires an appropriate, transparent, kaitiaki-guided pathway.
+Wairuatanga is a visible and equal faculty space, not a generic synonym for all belief systems and not a quarantine for every spiritual, relational, or worldview question. The equality of the faculty space does not pre-decide its relationships. Any later word, image, translation, learner statement, practice event, or curriculum relationship requires an appropriate, transparent, kaitiaki-guided pathway and remains contestable by community.
 
 ## Relationship to faculties and Papawai
 
@@ -98,7 +98,7 @@ The register also does not allow visual availability to decide curriculum member
 | **Whanaungatanga** | The faculty-space name used for relationship, connection, belonging, and learning with and through one another. |
 | **Manaakitanga** | The faculty-space name used for care, hospitality, support, and respectful participation. |
 | **Kaitiakitanga** | The faculty-space name used for responsible care, protection, and accountability in relation to people, places, resources, and environments. |
-| **Wairuatanga** | The protected faculty-space boundary for spiritual, relational, and meaning-making questions. It is not a generic synonym for all belief systems. |
+| **Wairuatanga** | The equal faculty-space boundary for spiritual, relational, and meaning-making questions. It is not a generic synonym for all belief systems and is neither exceptional nor quarantined. |
 | **Hangarau** | The faculty-space name used for technology, practical systems, tools, and making in their social and learning contexts. |
 | **Auahatanga** | The faculty-space name used for creative practice, imagination, expression, and making new possibilities. |
 | **Taiao** | The faculty-space name used for the natural world, environments, places, and ecological relationships. |
@@ -106,6 +106,7 @@ The register also does not allow visual availability to decide curriculum member
 | **Papawai** | The separate foundation-layer umbrella with **Phonemes**, Oracy, Literacy, and Numeracy child reference identities. Papawai is not a faculty space and does not itself assign a sense domain or a word to a learning sequence. |
 | **Canonical word** | The stable, normalised underlying word-form identity used to retain source occurrences without treating any one source row, spelling context, translation, image, or meaning as the whole record. A canonical word is not yet a word sense. |
 | **Sense domain** | A changeable organising territory for reviewed learning relationships. It is not a dictionary definition, a source category, a word sense, an asset category, or curriculum authority. |
+| **Crosswalk** | An attributable, reviewable relationship between already-distinct reference dimensions, such as a faculty space and a sense domain or a Papawai foundation layer and a sense domain. It is not an inferred curriculum membership, word sense, image relationship, or cultural-authority claim. |
 | **Word sense** | A future Ī-puāwai project-local relational identity for a specific intended meaning and learning use of a canonical word in a language. It is richer than a dictionary gloss and remains separate from a sense domain. |
 | **Learning statement** | A designed-next reusable learner-facing expression, expected to be limited to 144 characters and separately reviewed when attached to a sense domain, faculty space, or language-specific word sense. It is not yet an operational record. |
 
@@ -117,4 +118,4 @@ Read this register with the [Ī-puāwai rebaseline account](../ipuawai-rebaselin
 
 ## Publication note
 
-This public register records the approved provisional organising taxonomy as at **18 August 2026**. It is not a cultural authority statement, curriculum completion claim, translation approval, asset-rights finding, or substitute for community and kaitiaki review.
+This public register records the approved provisional organising taxonomy as at **22 August 2026**, including the Stage 13 equitable-governance clarification for Wairuatanga and the Stage 14 schema-v6 capacity boundary. It is not a cultural authority statement, curriculum completion claim, translation approval, asset-rights finding, crosswalk approval, or substitute for community and kaitiaki review.

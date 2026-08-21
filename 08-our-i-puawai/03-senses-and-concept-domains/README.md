@@ -1,10 +1,12 @@
 # 03 — senses and concept domains
 
-**Status: approved provisional 25-domain register, faculty-space references, and Papawai foundation references published; controlled word-sense catalogue, crosswalk, and relationship work remain under review.**
+**Status: approved provisional 25-domain register, faculty-space references, Papawai foundation references, and schema-v6 relationship capacity are in place; the first sealed 20-card Task A source-evidence package is under provisional human review; controlled local word-sense, crosswalk, and relationship work remains under review.**
 
 A word is not enough to identify a learning object. `bat` may refer to a flying animal, a cricket implement, or a baseball implement. Ī-puāwai therefore separates a canonical word from its language-specific word senses, and only later connects a reviewed sense to appropriate learner statements, translations, visual or audio assets, and learning uses.
 
 The public [provisional sense-domain register](provisional-sense-domain-register.md) records 25 changeable organising territories, eight named faculty spaces, and the separate Papawai foundation structure—**Phonemes, Oracy, Literacy, and Numeracy**—as reference dimensions for a **healthy living social learning system**. The register makes no individual word, translation, image, curriculum sequence, or carousel claim. Faculty-to-domain and foundation-to-domain crosswalks remain later reviewed relationship work, as do the designed-next reusable learning-statement records.
+
+Stage 15 has produced a small sealed source-evidence package for twenty declared image candidates. That package preserves exact WordSet candidate entries and documentation-bundle fingerprints without declaring any card’s local word sense, visual relationship, faculty/domain placement, Papawai relationship, or curriculum use. The next gate is provisional human meaning-evidence assessment; separate Task B work is required before any local word-sense proposal can be considered.
 
 The operating hierarchy is:
 

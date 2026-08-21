@@ -10,6 +10,8 @@ This section records the architecture without pretending every component is fini
 
 The [Ī-puāwai rebaseline: language, provenance, and the road ahead](ipuawai-rebaseline-language-provenance-and-road-ahead.md) records the recent movement from a fast, informative minimum viable product to a clean, evidence-first private foundation. It explains what is now reliable, what remains under test, and why future sense, asset, translation, and carousel relationships require explicit community and kaitiaki review.
 
+The current account records a private schema-v6 Progressive Deterministic foundation and the first sealed 20-card Task A source-evidence package. The package is structurally verified and deliberately unreviewed: it preserves declared image-candidate identity and WordSet candidate evidence while leaving image-to-meaning assessment, local word-sense proposals, curriculum relationships, database ingestion, and public release to their proper later gates.
+
 ## The working chain
 
 ```text
