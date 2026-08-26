@@ -19,6 +19,8 @@
 - **Ī-puāwai detail**
   - [Identity and Provenance](08-our-i-puawai/01-identity-and-provenance/README.md)
   - [Language Bank and Phonemes](08-our-i-puawai/02-language-bank-and-phonemes/README.md)
+  - [Whata 14.4k - Edition 1](08-our-i-puawai/02-language-bank-and-phonemes/01-foundation-word-lists/whata-14-4k/README.md)
+  - [Ī-puāwai v7 and WAI update](08-our-i-puawai/ipuawai-v7-evidence-foundation-and-wai-boundary-update.md)
   - [Senses and Concept Domains](08-our-i-puawai/03-senses-and-concept-domains/README.md)
   - [Media Intelligence](08-our-i-puawai/04-media-intelligence/README.md)
   - [Translation and Voice](08-our-i-puawai/05-translation-and-voice/README.md)

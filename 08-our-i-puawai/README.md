@@ -6,11 +6,13 @@
 
 This section records the architecture without pretending every component is finished. Each document distinguishes **operational**, **under test**, and **designed next** work. The purpose is replication: another AI++ team should be able to see how a community can move from a source asset to a governed learning event without losing language authority, provenance, or the ability to revise.
 
-## Current rebaseline account
+## Current public updates
 
-The [Ī-puāwai rebaseline: language, provenance, and the road ahead](ipuawai-rebaseline-language-provenance-and-road-ahead.md) records the recent movement from a fast, informative minimum viable product to a clean, evidence-first private foundation. It explains what is now reliable, what remains under test, and why future sense, asset, translation, and carousel relationships require explicit community and kaitiaki review.
+The [Ī-puāwai rebaseline: language, provenance, and the road ahead](ipuawai-rebaseline-language-provenance-and-road-ahead.md) preserves the August 2026 account of the private schema-v6 rebaseline and its deliberately governed relationship work. Its v6 discussion is historical context, not a claim that v6 remains the current foundation.
 
-The current account records a private schema-v6 Progressive Deterministic foundation and the first sealed 20-card Task A source-evidence package. The package is structurally verified and deliberately unreviewed: it preserves declared image-candidate identity and WordSet candidate evidence while leaving image-to-meaning assessment, local word-sense proposals, curriculum relationships, database ingestion, and public release to their proper later gates.
+The current [Ī-puāwai v7 and WAI workstream update](ipuawai-v7-evidence-foundation-and-wai-boundary-update.md) records an accepted v7 evidence-registry structure with no admitted evidence packages or record references, and confirms that WAI remains separate and production-owned pending a separately governed candidate package.
+
+[Whata 14.4k - Edition 1](02-language-bank-and-phonemes/01-foundation-word-lists/whata-14-4k/) is a community-governed public learning-set edition of 14,400 source-order raw titles. It preserves casing and spelling, presents ten sets of 1,440 titles, and keeps future membership changes visible rather than silent.
 
 ## The working chain
 

@@ -2,6 +2,8 @@
 
 **Status: a private clean schema-v6 Progressive Deterministic learning foundation is operational; public source and reference evidence is published; one sealed 20-card Task A source-evidence package has been structurally verified in private; semantic, visual, multilingual, crosswalk, curriculum, and community-review relationships remain deliberately governed work.**
 
+> **Current-status annotation - 27 August 2026:** This account preserves the schema-v6 rebaseline state as historical context. Ī-puāwai has since reached an accepted schema-v7 evidence-registry foundation; the v7 addition provides provenance structure only, with no admitted evidence packages or record references. The current public boundary with the separate WAI workstream is recorded in the [Ī-puāwai v7 and WAI workstream update](ipuawai-v7-evidence-foundation-and-wai-boundary-update.md).
+
 Ī-puāwai is becoming a community-held language-and-provenance database. This document records where the work has recently been, what is now reliable, and the challenges that must be faced before the system can honestly present words, senses, images, translations, voice, and practice as connected learning relationships.
 
 It is not a claim that the language bank is finished. It is a shared account of a transition: from a fast, informative minimum viable product to a more durable foundation where evidence is preserved, decisions are attributable, relationships can be reviewed, and future change does not need to begin from scratch.

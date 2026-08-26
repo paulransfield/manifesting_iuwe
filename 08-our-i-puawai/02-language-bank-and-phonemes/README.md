@@ -14,6 +14,8 @@ The approved [Papawai v2 curated successor](01-foundation-word-lists/papawai_180
 
 The approved [Papawai v3 health-and-wellbeing successor](01-foundation-word-lists/papawai_1800_words_v3.csv) retains all 1,330 v2 category-word occurrences and adds 75 approved `Health and Wellbeing` occurrences. Its [approved health decision ledger](01-foundation-word-lists/papawai_1800_v3_health_approved_decision_ledger.csv) and [v3 source specification](01-foundation-word-lists/papawai_1800_v3_health_source_specification.md) record the v2 parent hash, the v3 source hash, the health decision boundary, sense-domain roles, and deliberate deferrals. Word-form overlaps remain visible as source memberships; they do not create duplicate canonical word identities.
 
+[Whata 14.4k - Edition 1](01-foundation-word-lists/whata-14-4k/) is a separate community-governed public learning-set edition. It presents 14,400 raw titles in retained source order as ten equal chapters and a CSV for learner or teacher sorting and filtering. It is a bounded successor rather than a closed canon: future membership changes require recorded community decisions, and the public edition does not assert meanings, translations, curriculum sequence, rights conclusions, or media relationships for listed titles.
+
 Publication does not elevate any list into a closed curriculum or replace community authority over later membership, ordering, translation, or subset decisions.
 
 ## Phoneme source artifact
