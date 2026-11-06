@@ -12,6 +12,7 @@
   - [04. Our Pathways](04-our-pathways/README.md)
   - [05. Our Tickets](05-our-tickets/README.md)
   - [06. Our Proofs](06-our-proofs/README.md)
+    - [Living Book Stewardship](06-our-proofs/living-book-stewardship.md)
   - [07. Our Roots](07-our-roots/README.md)
   - [08. Our Ī-puāwai](08-our-i-puawai/README.md)
   - [09. Our WIP](09_our-wip/README.md)
